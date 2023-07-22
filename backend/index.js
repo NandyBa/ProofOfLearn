@@ -10,7 +10,7 @@ app.use(express.urlencoded({ extended: true }));
 
 app.post('*', (req, res) => {
     console.log(`POST request received at: ${req.originalUrl}`);
-    console.log('Body:', req.body);
+    // console.log('Body:', req.body);
 
     // Write the body to lastData.json to easy debugging
     // Also keep a copy of the previous data
