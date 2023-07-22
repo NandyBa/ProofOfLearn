@@ -12,17 +12,11 @@ import {
   SolanaPrivateKeyProvider,
   SolanaWallet,
 } from "@web3auth/solana-provider";
-// Tezos
-//@ts-ignore
-import * as tezosCrypto from "@tezos-core-tools/crypto-utils";
-import { hex2buf } from "@taquito/utils";
+
 // StarkEx and StarkNet
 //@ts-ignore
 import starkwareCrypto from "@starkware-industries/starkware-crypto-utils";
 
-// Polkadot
-import { Keyring } from "@polkadot/api";
-import { cryptoWaitReady } from "@polkadot/util-crypto";
 
 // Near
 // import { keyStores, KeyPair, utils } from "near-api-js";
@@ -98,20 +92,16 @@ function App() {
       solana_address = "Solana JSON RPC Error";
     }
     // Others
-    const tezos_address = await getTezosAddress();
     const starkex_address = await getStarkExAddress();
     const starknet_address = await getStarkNetAddress();
-    const polkadot_address = await getPolkadotAddress();
     // const near_address = await getNearAddress();
 
     uiConsole(
       "Polygon Address: " + polygon_address,
       "BNB Address: " + bnb_address,
       "Solana Address: " + solana_address,
-      "Tezos Address: " + tezos_address,
       "StarkEx Address: " + starkex_address,
       "StarkNet Address: " + starknet_address,
-      "Polkadot Address: " + polkadot_address
       // "Near Address: " + near_address
     );
   };
@@ -280,17 +270,6 @@ function App() {
     return solana_address[0];
   };
 
-  const getTezosAddress = async () => {
-    if (!provider) {
-      uiConsole("provider not initialized yet");
-      return;
-    }
-    const rpc = new RPC(provider);
-    const privateKey = await rpc.getPrivateKey();
-    const keyPairTezos = tezosCrypto.utils.seedToKeyPair(hex2buf(privateKey));
-    const address = keyPairTezos?.pkh;
-    return address;
-  };
 
   // Will address this in future PR
   // const getNearAddress = async () => {
@@ -340,21 +319,6 @@ function App() {
       "hex"
     );
     const address = starknet_account.pub.getX().toString("hex");
-    return address;
-  };
-
-  const getPolkadotAddress = async () => {
-    await cryptoWaitReady();
-    if (!provider) {
-      uiConsole("provider not initialized yet");
-      return;
-    }
-    const rpc = new RPC(provider);
-    const privateKey = (await rpc.getPrivateKey()) as string;
-    const keyring = new Keyring({ ss58Format: 42, type: "sr25519" });
-
-    const keyPair = keyring.addFromUri("0x" + privateKey);
-    const address = keyPair.address;
     return address;
   };
 
