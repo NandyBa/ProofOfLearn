@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Safe AA POC",
+  "name": "Safe Account Abstraction Sample App",
   "icons": [
     {
       "src": "favicon.ico",
