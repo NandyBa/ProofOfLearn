@@ -12,6 +12,14 @@ app.post('*', (req, res) => {
     console.log('Body:', req.body);
 
     // Write the body to lastData.json to easy debugging
+    // Also keep a copy of the previous data
+
+    if (fs.existsSync('lastData.json')) {
+        const lastData = fs.readFileSync('lastData.json', 'utf8');
+        fs.writeFileSync('prevData.json', lastData);
+    }
+
+    
     fs.writeFileSync('lastData.json', JSON.stringify(req.body, null, '\t'));
     
     res.status(200).send('Received POST data');
