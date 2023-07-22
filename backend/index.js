@@ -1,6 +1,7 @@
 const express = require('express');
 const app = express();
 const fs = require('fs');
+const { didUse1inch } = require('./experiences/1inch');
 const port = 3000;
 
 // Middleware for parsing JSON and urlencoded form data
@@ -19,7 +20,8 @@ app.post('*', (req, res) => {
         fs.writeFileSync('prevData.json', lastData);
     }
 
-    
+    console.log('didUse1inch', didUse1inch(req, res));
+
     fs.writeFileSync('lastData.json', JSON.stringify(req.body, null, '\t'));
     
     res.status(200).send('Received POST data');
