@@ -3,3 +3,6 @@ node_modules
 # Debugging files
 lastData.json
 prevData.json
+
+# config files
+config.js
