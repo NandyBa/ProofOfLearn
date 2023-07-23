@@ -10,12 +10,17 @@ import PageExperienceN1 from "./pages/PageExperienceN1";
 import PageLevel from "./pages/PageLevel";
 import LaunchAppHOME from "./pages/LaunchAppHOME";
 import WalletAbstraction from "./WalletAbstraction";
+import Demo from './pages/demo';
+import DemoAave from './pages/demo-aave';
 
 const App = () => {
 
   return(
     <Routes>
     <Route path="/" element={<SITEWEB />} />
+    <Route path="/demo" element={<Demo />} />
+    <Route path="/demo-aave" element={<DemoAave />} />
+    <Route path="/page-experience-n32" element={<PageExperienceN32 />} />
     <Route path="/walletAbstraction" element={<WalletAbstraction />} />
     <Route path="/page-experience-n3" element={<PageExperienceN3 />} />
     <Route path="/page-experience-n1-1" element={<PageExperienceN11 />} />

@@ -107,7 +107,7 @@ function WalletAbstraction() {
             appName: "W3A",
             appLogo: "https://web3auth.io/images/w3a-L-Favicon-1.svg", // Your App Logo Here
             theme: "light",
-            loginMethodsOrder: ["apple", "google", "twitter"],
+            loginMethodsOrder: [ "google", "twitter"],
             defaultLanguage: "en", // en, de, ja, ko, zh, es, fr, pt, nl
             loginGridCol: 3,
             primaryButton: "externalLogin" // "externalLogin" | "socialLogin" | "emailLogin"
@@ -464,8 +464,9 @@ function WalletAbstraction() {
 
   const loggedInView = (
     <>
+      <a href="https://app.1inch.io/#/100/simple/swap/xDAI" target="_blank">1inch Website</a>
       <div className="flex-container">
-        <div>
+        {/* <div>
           <button onClick={getUserInfo} className="card">
             Get User Info
           </button>
@@ -484,13 +485,13 @@ function WalletAbstraction() {
           <button onClick={getAllAccounts} className="card">
             Get All Accounts
           </button>
-        </div>
-        <div>
+        </div> */}
+        <div> 
           <button onClick={showWCM} className="card">
             Show Wallet Connect Modal
           </button>
         </div>
-        <div>
+        {/* <div>
           <button onClick={getBalance} className="card">
             Get ETH Balance
           </button>
@@ -504,7 +505,7 @@ function WalletAbstraction() {
           <button onClick={signMessage} className="card">
             Sign Message
           </button>
-        </div>
+        </div> */}
         <div>
           <button onClick={logout} className="card">
             Log Out
@@ -534,15 +535,6 @@ function WalletAbstraction() {
 
       <div className="grid">{loggedIn ? loggedInView : unloggedInView}</div>
 
-      <footer className="footer">
-        <a
-          href="https://github.com/Web3Auth/examples/tree/main/web-modal-sdk/multi-chain/react-multi-chain-modal-example"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Source code
-        </a>
-      </footer>
     </div>
   );
 }
