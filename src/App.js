@@ -14,20 +14,18 @@ import WalletAbstraction from "./WalletAbstraction";
 const App = () => {
 
   return(
-    <BrowserRouter>
-      <Routes>
-        <Route path="/" element={<SITEWEB />} />
-        <Route path="/walletAbstraction" element={<WalletAbstraction />} />
-        <Route path="/page-experience-n3" element={<PageExperienceN3 />} />
-        <Route path="/page-experience-n1-1" element={<PageExperienceN11 />} />
-        <Route path="/page-ape-experience-22" element={<PageAPEExperience22 />} />
-        <Route path="/page-ape-experience-21" element={<PageAPEExperience21 />} />
-        <Route path="/page-toutes-les-experiences" element={<PageToutesLesExperiences />} />
-        <Route path="/page-experience-n1" element={<PageExperienceN1 />} />
-        <Route path="/page-level" element={<PageLevel />} />
-        <Route path="/launch-app-home" element={<LaunchAppHOME />} />
-      </Routes>
-    </BrowserRouter>
+    <Routes>
+    <Route path="/" element={<SITEWEB />} />
+    <Route path="/walletAbstraction" element={<WalletAbstraction />} />
+    <Route path="/page-experience-n3" element={<PageExperienceN3 />} />
+    <Route path="/page-experience-n1-1" element={<PageExperienceN11 />} />
+    <Route path="/page-ape-experience-22" element={<PageAPEExperience22 />} />
+    <Route path="/page-ape-experience-21" element={<PageAPEExperience21 />} />
+    <Route path="/page-toutes-les-experiences" element={<PageToutesLesExperiences />} />
+    <Route path="/page-experience-n1" element={<PageExperienceN1 />} />
+    <Route path="/page-level" element={<PageLevel />} />
+    <Route path="/launch-app-home" element={<LaunchAppHOME />} />
+    </Routes>
   );
 }
 
