@@ -5,7 +5,9 @@ const PageExperienceN11 = () => {
       <div className="divcss-1y21ojc2">
         <div className="divcss-sdkmul2">
           <div className="divchakra-stack79">
-            <img className="divchakra-stack-inner" alt="" src="/ellipse-1@2x.png" />
+            <a href="/">
+              <img className="divchakra-stack-inner" alt="" src="/ellipse-1@2x.png" />
+            </a>
             <div className="divcss-1uod83n2" />
           </div>
           <div className="divchakra-stack80">

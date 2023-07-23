@@ -5,7 +5,9 @@ const PageAPEExperience21 = () => {
       <div className="divcss-1y21ojc4">
         <div className="divcss-sdkmul4">
           <div className="divchakra-stack151">
-            <img className="divchakra-stack-child1" alt="" src="/ellipse-1@2x.png" />
+            <a href="/">
+              <img className="divchakra-stack-child1" alt="" src="/ellipse-1@2x.png" />
+            </a>
             <div className="divcss-1uod83n4" />
           </div>
           <div className="divchakra-stack152">
