@@ -66,7 +66,9 @@ const LaunchAppHOME = () => {
                 </div>
                 <div className="button62">
                   <div className="pchakra-text236">
-                    <b className="see-more">See More</b>
+                    <a className="see-more" href="/page-toutes-les-experiences">
+                      <b className="see-more">See More</b>
+                    </a>
                   </div>
                   <div className="spanchakra-button-icon56">
                     <div className="svg135">
@@ -85,7 +87,7 @@ const LaunchAppHOME = () => {
                 <div className="divchakra-stack323">
                   <div className="divchakra-stack324" />
                 </div>
-                <div className="divchakra-stack325">
+                <a className="divchakra-stack325" href="/page-experience-n3">
                   <div className="divchakra-stack326">
                     <div className="divcss-1kq5yp14">
                       <div className="span91">
@@ -195,7 +197,7 @@ const LaunchAppHOME = () => {
                       <div className="kishanshaheth">12 Claim Ongoing</div>
                     </div>
                   </div>
-                </div>
+                </a>
                 <div className="divchakra-stack325">
                   <div className="divchakra-stack326">
                     <div className="divcss-1kq5yp14">
@@ -1215,7 +1217,7 @@ const LaunchAppHOME = () => {
                 </div>
               </div>
               <div className="pchakra-text304">
-                <div className="id-010276">ID : 01027</div>
+                <div className="id-010276">Login</div>
               </div>
             </div>
           </div>
