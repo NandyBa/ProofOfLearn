@@ -468,9 +468,9 @@ const PageToutesLesExperiences = () => {
                   </div>
                 </div>
                 <div className="pchakra-text179">
-                  <a href="/">
-                    <div className="home5">Home</div>
-                  </a>
+                  <div className="home5">
+                    <a href="/launch-app-home">Home</a>
+                  </div>
                 </div>
               </div>
               <div className="divchakra-stack253">

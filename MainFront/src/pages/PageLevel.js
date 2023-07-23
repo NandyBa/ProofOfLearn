@@ -106,7 +106,9 @@ const PageLevel = () => {
                         </div>
                       </div>
                       <div className="pchakra-text226">
-                        <div className="home7">Home</div>
+                        <div className="home7">
+                          <a href="/launch-app-home">Home</a>
+                        </div>
                       </div>
                     </div>
                     <div className="divchakra-stack309">

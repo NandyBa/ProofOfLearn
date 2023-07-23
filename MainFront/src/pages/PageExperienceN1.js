@@ -409,7 +409,9 @@ const PageExperienceN1 = () => {
               </div>
             </div>
             <div className="pchakra-text213">
-              <div className="home6">Home</div>
+              <div className="home6">
+                <a href="/launch-app-home">Home</a>
+              </div>
             </div>
           </div>
           <div className="divchakra-stack297">

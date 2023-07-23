@@ -394,7 +394,9 @@ const PageAPEExperience21 = () => {
               </div>
             </div>
             <div className="pchakra-text152">
-              <div className="home4">Home</div>
+              <div className="home4">
+                <a href="/launch-app-home">Home</a>
+              </div>
             </div>
           </div>
           <div className="divchakra-stack192">
