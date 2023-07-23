@@ -1,5 +1,5 @@
-import "./SITEWEB.css";
-const SITEWEB = () => {
+import "./HomePage.css";
+const HomePage = () => {
   return (
     <div className="site-web">
       <div className="tout-le-site-tout-le-long">
@@ -43,7 +43,9 @@ const SITEWEB = () => {
             <div className="divframer-1tguap6">
               <div className="divframer-gvo3gs-container5">
                 <div className="link11">
-                  <b className="get-started3">Get Started</b>
+                  <a href="/launch-app-home">
+                    <b className="get-started3">Get Started</b>
+                  </a>
                 </div>
               </div>
               <div className="divframer-ivci4s-container">
@@ -177,7 +179,9 @@ const SITEWEB = () => {
               </div>
               <div className="divframer-7pmrb3">
                 <div className="link18">
-                  <b className="get-started3">Get Started</b>
+                  <a href="/launch-app-home">
+                    <b className="get-started3">Get Started</b>
+                  </a>
                 </div>
               </div>
             </div>
@@ -224,7 +228,9 @@ const SITEWEB = () => {
                 <div className="divframer-3wws4p-container">
                   <div className="link19">
                     <div className="divframer-5apapq" />
-                    <b className="get-started5">{`Get Started `}</b>
+                    <a href="/launch-app-home">
+                      <b className="get-started5">{`Get Started `}</b>
+                    </a>
                     <div className="divframer-5wpwc2-container">
                       <div className="svg122">
                         <img className="frame-icon6" alt="" src="/frame8.svg" />
@@ -715,4 +721,4 @@ const SITEWEB = () => {
   );
 };
 
-export default SITEWEB;
+export default HomePage;
