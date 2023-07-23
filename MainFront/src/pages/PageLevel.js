@@ -11,18 +11,12 @@ const PageLevel = () => {
                   <div className="divcss-1iuj5ih">
                     <div className="svg111">
                       <div className="frame107">
-                        <img
-                          className="vector-icon111"
-                          alt=""
-                          src="/vector37.svg"
-                        />
+                        <img className="vector-icon111" alt="" src="/vector37.svg" />
                       </div>
                     </div>
                   </div>
                   <div className="pchakra-text220">
-                    <div className="experiences-by-level">
-                      Experiences by Level
-                    </div>
+                    <div className="experiences-by-level">Experiences by Level</div>
                   </div>
                 </div>
               </div>
@@ -49,11 +43,7 @@ const PageLevel = () => {
                 <div className="divcss-1qu85kq">
                   <div className="svg112">
                     <div className="frame108">
-                      <img
-                        className="vector-icon112"
-                        alt=""
-                        src="/vector38.svg"
-                      />
+                      <img className="vector-icon112" alt="" src="/vector38.svg" />
                     </div>
                   </div>
                 </div>
@@ -88,11 +78,7 @@ const PageLevel = () => {
                         <div className="spanchakra-button-icon49">
                           <div className="svg113">
                             <div className="frame109">
-                              <img
-                                className="vector-icon113"
-                                alt=""
-                                src="/vector35.svg"
-                              />
+                              <img className="vector-icon113" alt="" src="/vector35.svg" />
                             </div>
                           </div>
                         </div>
@@ -115,11 +101,7 @@ const PageLevel = () => {
                       <div className="spanchakra-button-icon50">
                         <div className="svg113">
                           <div className="frame110">
-                            <img
-                              className="vector-icon114"
-                              alt=""
-                              src="/vector36.svg"
-                            />
+                            <img className="vector-icon114" alt="" src="/vector36.svg" />
                           </div>
                         </div>
                       </div>
@@ -132,32 +114,28 @@ const PageLevel = () => {
                         <div className="spanchakra-button-icon50">
                           <div className="svg113">
                             <div className="frame111">
-                              <img
-                                className="vector-icon115"
-                                alt=""
-                                src="/vector39.svg"
-                              />
+                              <img className="vector-icon115" alt="" src="/vector39.svg" />
                             </div>
                           </div>
                         </div>
                         <div className="pchakra-text227">
-                          <div className="level7">Level</div>
+                          <div className="level7">
+                            <a href="/page-level">Level</a>
+                          </div>
                         </div>
                       </div>
                       <div className="button58">
                         <div className="spanchakra-button-icon50">
                           <div className="svg113">
                             <div className="frame112">
-                              <img
-                                className="vector-icon116"
-                                alt=""
-                                src="/vector40.svg"
-                              />
+                              <img className="vector-icon116" alt="" src="/vector40.svg" />
                             </div>
                           </div>
                         </div>
                         <div className="pchakra-text228">
-                          <div className="experience7">Experience</div>
+                          <div className="experience7">
+                            <a href="/page-toutes-les-experiences">Experience</a>
+                          </div>
                         </div>
                       </div>
                     </div>
@@ -169,11 +147,7 @@ const PageLevel = () => {
                         <div className="spanchakra-button-icon50">
                           <div className="svg113">
                             <div className="frame113">
-                              <img
-                                className="vector-icon113"
-                                alt=""
-                                src="/vector23.svg"
-                              />
+                              <img className="vector-icon113" alt="" src="/vector23.svg" />
                             </div>
                           </div>
                         </div>
@@ -190,11 +164,7 @@ const PageLevel = () => {
                         <div className="spanchakra-button-icon50">
                           <div className="svg113">
                             <div className="frame114">
-                              <img
-                                className="vector-icon118"
-                                alt=""
-                                src="/vector13.svg"
-                              />
+                              <img className="vector-icon118" alt="" src="/vector13.svg" />
                             </div>
                           </div>
                         </div>
@@ -213,11 +183,7 @@ const PageLevel = () => {
                   <div className="button-filter1">
                     <div className="svg113">
                       <div className="frame115">
-                        <img
-                          className="vector-icon119"
-                          alt=""
-                          src="/vector41.svg"
-                        />
+                        <img className="vector-icon119" alt="" src="/vector41.svg" />
                       </div>
                     </div>
                   </div>
@@ -225,11 +191,7 @@ const PageLevel = () => {
                     <div className="form1">
                       <div className="svg120">
                         <div className="frame116">
-                          <img
-                            className="vector-icon120"
-                            alt=""
-                            src="/vector42.svg"
-                          />
+                          <img className="vector-icon120" alt="" src="/vector42.svg" />
                         </div>
                       </div>
                       <div className="input1">
@@ -249,11 +211,7 @@ const PageLevel = () => {
                   <div className="spanchakra-button-icon50">
                     <div className="svg113">
                       <div className="frame117">
-                        <img
-                          className="vector-icon121"
-                          alt=""
-                          src="/vector43.svg"
-                        />
+                        <img className="vector-icon121" alt="" src="/vector43.svg" />
                       </div>
                     </div>
                   </div>
