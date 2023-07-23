@@ -4,7 +4,7 @@ const headers = require('./QuickNodeRequestHeader')
 const wallet_address = '0x39F606E112748C62EbA89db5b1934bcd339db5cc'
 const expression = `(tx_to == '${wallet_address}') || (tx_from == '${wallet_address}')`
 const network = 'gnosis-mainnet'
-const destinationId = '91ee4250-4baa-4f7b-a392-60bd8024f27e'
+const destinationId = '046e520f-0ea8-4b6a-9067-63fa2a938a14'
 
 
 var expressionBase64 = Buffer.from(expression).toString('base64')
