@@ -5,11 +5,7 @@ const PageExperienceN32 = () => {
       <div className="divcss-1y21ojc">
         <div className="divcss-sdkmul">
           <div className="divchakra-stack">
-            <img
-              className="divchakra-stack-child"
-              alt=""
-              src="/ellipse-1@2x.png"
-            />
+            <img className="divchakra-stack-child" alt="" src="/ellipse-1@2x.png" />
             <div className="divcss-1uod83n" />
           </div>
           <div className="divchakra-stack1">
@@ -28,11 +24,7 @@ const PageExperienceN32 = () => {
                       <div className="image1" />
                     </div>
                     <div className="wallet2f170466svg">
-                      <img
-                        className="wallet2f170466svg-icon"
-                        alt=""
-                        src="/wallet2f170466svg.svg"
-                      />
+                      <img className="wallet2f170466svg-icon" alt="" src="/wallet2f170466svg.svg" />
                     </div>
                   </div>
                 </div>
@@ -52,11 +44,7 @@ const PageExperienceN32 = () => {
                     <div className="image2">
                       <div className="image3" />
                     </div>
-                    <img
-                      className="mirror938c2527png-icon"
-                      alt=""
-                      src="/mirror938c2527png@2x.png"
-                    />
+                    <img className="mirror938c2527png-icon" alt="" src="/mirror938c2527png@2x.png" />
                   </div>
                   <div className="pchakra-text1">
                     <div className="inch-swap">{`1 Inch / Swap yours Tokens  `}</div>
@@ -72,11 +60,7 @@ const PageExperienceN32 = () => {
                     <div className="divcss-go2wv">
                       <div className="svg1">
                         <div className="frame1">
-                          <img
-                            className="vector-icon1"
-                            alt=""
-                            src="/vector1.svg"
-                          />
+                          <img className="vector-icon1" alt="" src="/vector1.svg" />
                         </div>
                       </div>
                     </div>
@@ -97,11 +81,7 @@ const PageExperienceN32 = () => {
                   <div className="divchakra-stack10">
                     <div className="svg1">
                       <div className="frame2">
-                        <img
-                          className="vector-icon2"
-                          alt=""
-                          src="/vector2.svg"
-                        />
+                        <img className="vector-icon2" alt="" src="/vector2.svg" />
                       </div>
                     </div>
                     <div className="pchakra-text4">
@@ -109,20 +89,14 @@ const PageExperienceN32 = () => {
                     </div>
                   </div>
                   <div className="pchakra-text5">
-                    <div className="swap-token-a">
-                      Swap token A to token B using DeFi protocol
-                    </div>
+                    <div className="swap-token-a">Swap token A to token B using DeFi protocol</div>
                   </div>
                 </div>
                 <div className="divchakra-stack11">
                   <div className="divchakra-stack12">
                     <div className="svg1">
                       <div className="frame3">
-                        <img
-                          className="vector-icon3"
-                          alt=""
-                          src="/vector3.svg"
-                        />
+                        <img className="vector-icon3" alt="" src="/vector3.svg" />
                       </div>
                     </div>
                     <div className="pchakra-text6">
@@ -137,11 +111,7 @@ const PageExperienceN32 = () => {
                   <div className="divchakra-stack14">
                     <div className="svg1">
                       <div className="frame4">
-                        <img
-                          className="vector-icon4"
-                          alt=""
-                          src="/vector4.svg"
-                        />
+                        <img className="vector-icon4" alt="" src="/vector4.svg" />
                       </div>
                     </div>
                     <div className="pchakra-text8">
@@ -149,9 +119,7 @@ const PageExperienceN32 = () => {
                     </div>
                   </div>
                   <div className="pchakra-text9">
-                    <div className="swap-token-a">
-                      1000$ en 1INCH token to share
-                    </div>
+                    <div className="swap-token-a">1000$ en 1INCH token to share</div>
                   </div>
                 </div>
               </div>
@@ -174,61 +142,54 @@ const PageExperienceN32 = () => {
                   <p className="description1">Step 1:</p>
                   <ul className="access-the-gnosis-chain-platfo">
                     <li className="access-the-gnosis">
-                      Access the Gnosis Chain platform and connect our app with
-                      wallet connect with sufficient DAI tokens (at least 0,50
-                      DAI) for the swap.
+                      Access the Gnosis Chain platform and connect our app with wallet connect with sufficient DAI
+                      tokens (at least 0,50 DAI) for the swap.
                     </li>
                   </ul>
                   <p className="description1">Step 2:</p>
                   <ul className="access-the-gnosis-chain-platfo">
                     <li className="access-the-gnosis">
-                      Navigate to the 1inch aggregator platform or use the 1inch
-                      API integrated into the Gnosis Chain platform.
+                      Navigate to the 1inch aggregator platform or use the 1inch API integrated into the Gnosis Chain
+                      platform.
                     </li>
                   </ul>
                   <p className="description1">Step 3:</p>
                   <ul className="access-the-gnosis-chain-platfo">
                     <li className="access-the-gnosis">
-                      Input the amount of DAI you wish to swap (e.g., 0,50 DAI)
-                      and select USDT as the target token.
+                      Input the amount of DAI you wish to swap (e.g., 0,50 DAI) and select USDT as the target token.
                     </li>
                   </ul>
                   <p className="description1">Step 4:</p>
                   <ul className="access-the-gnosis-chain-platfo">
                     <li className="access-the-gnosis">
-                      The 1inch aggregator will automatically find the best
-                      exchange rate for the token swap across various
-                      decentralized exchanges.
+                      The 1inch aggregator will automatically find the best exchange rate for the token swap across
+                      various decentralized exchanges.
                     </li>
                   </ul>
                   <p className="description1">Step 5:</p>
                   <ul className="access-the-gnosis-chain-platfo">
                     <li className="access-the-gnosis">
-                      Confirm the transaction details and authorize the swap
-                      using our app with wallet integration.
+                      Confirm the transaction details and authorize the swap using our app with wallet integration.
                     </li>
                   </ul>
                   <p className="description1">Step 6:</p>
                   <ul className="access-the-gnosis-chain-platfo">
                     <li className="access-the-gnosis">
-                      The Gnosis Chain executes the token swap, converting the
-                      0,50 DAI into an equivalent amount of USDT based on the
-                      best available rate.
+                      The Gnosis Chain executes the token swap, converting the 0,50 DAI into an equivalent amount of
+                      USDT based on the best available rate.
                     </li>
                   </ul>
                   <p className="description1">Step 7:</p>
                   <ul className="access-the-gnosis-chain-platfo">
                     <li className="access-the-gnosis">
-                      During the swap process, the Gnosis Chain ensures the
-                      security and integrity of the transaction.
+                      During the swap process, the Gnosis Chain ensures the security and integrity of the transaction.
                     </li>
                   </ul>
                   <p className="description1">Step 8:</p>
                   <ul className="access-the-gnosis-chain-platfo">
                     <li>
-                      Once the swap is successfully completed, the newly
-                      acquired USDT tokens will be reflected in your wallet on
-                      the Gnosis Chain.
+                      Once the swap is successfully completed, the newly acquired USDT tokens will be reflected in your
+                      wallet on the Gnosis Chain.
                     </li>
                   </ul>
                 </span>
@@ -244,9 +205,7 @@ const PageExperienceN32 = () => {
           <div className="divchakra-stack17">
             <div className="divchakra-stack18">
               <div className="pchakra-text12">
-                <div className="examples-of-nouns">
-                  Examples of nouns learners
-                </div>
+                <div className="examples-of-nouns">Examples of nouns learners</div>
               </div>
               <div className="divchakra-stack19">
                 <div className="svg1">
@@ -291,11 +250,7 @@ const PageExperienceN32 = () => {
                   <div className="divcss-01">
                     <div className="divcss-1y1nkkn">
                       <div className="span3">
-                        <img
-                          className="haoxiaoeth-icon"
-                          alt=""
-                          src="/haoxiaoeth@2x.png"
-                        />
+                        <img className="haoxiaoeth-icon" alt="" src="/haoxiaoeth@2x.png" />
                       </div>
                     </div>
                   </div>
@@ -307,11 +262,7 @@ const PageExperienceN32 = () => {
                   <div className="divcss-01">
                     <div className="divcss-1y1nkkn">
                       <div className="span3">
-                        <img
-                          className="haoxiaoeth-icon"
-                          alt=""
-                          src="/mo115eth@2x.png"
-                        />
+                        <img className="haoxiaoeth-icon" alt="" src="/mo115eth@2x.png" />
                       </div>
                     </div>
                   </div>
@@ -323,11 +274,7 @@ const PageExperienceN32 = () => {
                   <div className="divcss-01">
                     <div className="divcss-1y1nkkn">
                       <div className="span3">
-                        <img
-                          className="haoxiaoeth-icon"
-                          alt=""
-                          src="/neparaeth@2x.png"
-                        />
+                        <img className="haoxiaoeth-icon" alt="" src="/neparaeth@2x.png" />
                       </div>
                     </div>
                   </div>
@@ -339,11 +286,7 @@ const PageExperienceN32 = () => {
                   <div className="divcss-01">
                     <div className="divcss-1y1nkkn">
                       <div className="span3">
-                        <img
-                          className="haoxiaoeth-icon"
-                          alt=""
-                          src="/0x68159eth@2x.png"
-                        />
+                        <img className="haoxiaoeth-icon" alt="" src="/0x68159eth@2x.png" />
                       </div>
                     </div>
                   </div>
@@ -355,11 +298,7 @@ const PageExperienceN32 = () => {
                   <div className="divcss-01">
                     <div className="divcss-1y1nkkn">
                       <div className="span3">
-                        <img
-                          className="haoxiaoeth-icon"
-                          alt=""
-                          src="/truete11ereth@2x.png"
-                        />
+                        <img className="haoxiaoeth-icon" alt="" src="/truete11ereth@2x.png" />
                       </div>
                     </div>
                   </div>
@@ -435,7 +374,9 @@ const PageExperienceN32 = () => {
                 </div>
               </div>
               <div className="pchakra-text24">
-                <div className="level">Level</div>
+                <div className="level">
+                  <a href="/page-level">Level</a>
+                </div>
               </div>
             </div>
             <div className="button5">
@@ -447,7 +388,9 @@ const PageExperienceN32 = () => {
                 </div>
               </div>
               <div className="pchakra-text25">
-                <div className="experience">Experience</div>
+                <div className="experience">
+                  <a href="/page-toutes-les-experiences">Experience</a>
+                </div>
               </div>
             </div>
           </div>

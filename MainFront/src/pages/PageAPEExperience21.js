@@ -5,11 +5,7 @@ const PageAPEExperience21 = () => {
       <div className="divcss-1y21ojc4">
         <div className="divcss-sdkmul4">
           <div className="divchakra-stack151">
-            <img
-              className="divchakra-stack-child1"
-              alt=""
-              src="/ellipse-1@2x.png"
-            />
+            <img className="divchakra-stack-child1" alt="" src="/ellipse-1@2x.png" />
             <div className="divcss-1uod83n4" />
           </div>
           <div className="divchakra-stack152">
@@ -28,11 +24,7 @@ const PageAPEExperience21 = () => {
                       <div className="image35" />
                     </div>
                     <div className="wallet2f170466svg4">
-                      <img
-                        className="wallet2f170466svg-icon4"
-                        alt=""
-                        src="/wallet2f170466svg1.svg"
-                      />
+                      <img className="wallet2f170466svg-icon4" alt="" src="/wallet2f170466svg1.svg" />
                     </div>
                   </div>
                 </div>
@@ -52,20 +44,14 @@ const PageAPEExperience21 = () => {
                     <div className="image36">
                       <div className="image37" />
                     </div>
-                    <img
-                      className="mirror938c2527png-icon4"
-                      alt=""
-                      src="/mirror938c2527png2@2x.png"
-                    />
+                    <img className="mirror938c2527png-icon4" alt="" src="/mirror938c2527png2@2x.png" />
                   </div>
                   <div className="pchakra-text126">
                     <div className="apecoin-find1">{`ApeCoin / Find the right information  `}</div>
                   </div>
                 </div>
                 <div className="pchakra-text127">
-                  <b className="treasure-hunt1">
-                    Treasure hunt : Find the good data
-                  </b>
+                  <b className="treasure-hunt1">Treasure hunt : Find the good data</b>
                 </div>
               </div>
               <div className="divchakra-stack157">
@@ -74,11 +60,7 @@ const PageAPEExperience21 = () => {
                     <div className="divcss-go2wv9">
                       <div className="svg61">
                         <div className="frame61">
-                          <img
-                            className="vector-icon63"
-                            alt=""
-                            src="/vector1.svg"
-                          />
+                          <img className="vector-icon63" alt="" src="/vector1.svg" />
                         </div>
                       </div>
                     </div>
@@ -99,11 +81,7 @@ const PageAPEExperience21 = () => {
                   <div className="divchakra-stack161">
                     <div className="svg61">
                       <div className="frame62">
-                        <img
-                          className="vector-icon64"
-                          alt=""
-                          src="/vector15.svg"
-                        />
+                        <img className="vector-icon64" alt="" src="/vector15.svg" />
                       </div>
                     </div>
                     <div className="pchakra-text129">
@@ -111,20 +89,14 @@ const PageAPEExperience21 = () => {
                     </div>
                   </div>
                   <div className="pchakra-text130">
-                    <div className="find-the-right1">
-                      Find the right data and learn DYOR
-                    </div>
+                    <div className="find-the-right1">Find the right data and learn DYOR</div>
                   </div>
                 </div>
                 <div className="divchakra-stack162">
                   <div className="divchakra-stack163">
                     <div className="svg61">
                       <div className="frame63">
-                        <img
-                          className="vector-icon65"
-                          alt=""
-                          src="/vector3.svg"
-                        />
+                        <img className="vector-icon65" alt="" src="/vector3.svg" />
                       </div>
                     </div>
                     <div className="pchakra-text131">
@@ -139,11 +111,7 @@ const PageAPEExperience21 = () => {
                   <div className="divchakra-stack165">
                     <div className="svg61">
                       <div className="frame64">
-                        <img
-                          className="vector-icon66"
-                          alt=""
-                          src="/vector16.svg"
-                        />
+                        <img className="vector-icon66" alt="" src="/vector16.svg" />
                       </div>
                     </div>
                     <div className="pchakra-text133">
@@ -170,17 +138,11 @@ const PageAPEExperience21 = () => {
               <div className="divchakra-stack168">
                 <div className="divcss-p9xbm12">
                   <div className="divcss-rlhbmu1">
-                    <img
-                      className="button-checkbox1"
-                      alt=""
-                      src="/button--checkbox@2x.png"
-                    />
+                    <img className="button-checkbox1" alt="" src="/button--checkbox@2x.png" />
                   </div>
                   <div className="divchakra-stack169">
                     <div className="pchakra-text136">
-                      <div className="read-related-links">
-                        Read Related Links
-                      </div>
+                      <div className="read-related-links">Read Related Links</div>
                     </div>
                     <div className="divchakra-stack170">
                       <div className="divchakra-stack171">
@@ -189,11 +151,7 @@ const PageAPEExperience21 = () => {
                             <div className="image40">
                               <div className="image41" />
                             </div>
-                            <img
-                              className="optimism202c83a8png-icon1"
-                              alt=""
-                              src="/optimism202c83a8png1@2x.png"
-                            />
+                            <img className="optimism202c83a8png-icon1" alt="" src="/optimism202c83a8png1@2x.png" />
                           </div>
                         </div>
                         <div className="pchakra-text128">
@@ -221,11 +179,7 @@ const PageAPEExperience21 = () => {
                   <div className="divcss-a20ioa1">
                     <div className="svg61">
                       <div className="frame67">
-                        <img
-                          className="vector-icon69"
-                          alt=""
-                          src="/vector19.svg"
-                        />
+                        <img className="vector-icon69" alt="" src="/vector19.svg" />
                       </div>
                     </div>
                   </div>
@@ -247,45 +201,30 @@ const PageAPEExperience21 = () => {
               <div className="pchakra-text139" />
             </div>
             <div className="pchakra-text140">
-              <img
-                className="rectangle-icon"
-                alt=""
-                src="/rectangle-61@2x.png"
-              />
+              <img className="rectangle-icon" alt="" src="/rectangle-61@2x.png" />
               <div className="in-this-tutorial-container">
                 <span className="in-this-tutorial-container1">
                   <p className="in-this-tutorial">
-                    In this tutorial, we'll explore the concept of DAOs
-                    (Decentralized Autonomous Organizations) and how you can
-                    earn your first governance token. The main objective is to
-                    understand how to perform DYOR (Do Your Own Research) and
-                    find relevant data about APE coin on platforms like
-                    CoinMarketCap. Let's get started!
+                    In this tutorial, we'll explore the concept of DAOs (Decentralized Autonomous Organizations) and how
+                    you can earn your first governance token. The main objective is to understand how to perform DYOR
+                    (Do Your Own Research) and find relevant data about APE coin on platforms like CoinMarketCap. Let's
+                    get started!
                   </p>
                   <p className="in-this-tutorial">&nbsp;</p>
                   <p className="in-this-tutorial">1. Understanding DAOs:</p>
                   <p className="in-this-tutorial">
-                    DAOs are organizations governed by code and operate on
-                    blockchain networks. They are designed to be decentralized,
-                    meaning there's no single entity controlling them. Instead,
-                    decisions are made through voting by token holders. These
-                    tokens often represent voting power, and participating in a
-                    DAO allows you to have a say in the organization's
-                    governance and decision-making processes.
+                    DAOs are organizations governed by code and operate on blockchain networks. They are designed to be
+                    decentralized, meaning there's no single entity controlling them. Instead, decisions are made
+                    through voting by token holders. These tokens often represent voting power, and participating in a
+                    DAO allows you to have a say in the organization's governance and decision-making processes.
                   </p>
                   <p className="in-this-tutorial">&nbsp;</p>
+                  <p className="in-this-tutorial">2. What is DYOR (Do Your Own Research)?</p>
                   <p className="in-this-tutorial">
-                    2. What is DYOR (Do Your Own Research)?
-                  </p>
-                  <p className="in-this-tutorial">
-                    DYOR is a critical concept in the cryptocurrency and
-                    blockchain space. It emphasizes the importance of conducting
-                    thorough research before making any investment or
-                    participation decisions. Rather than solely relying on
-                    others' opinions or suggestions, DYOR encourages you to
-                    review the project's whitepaper, team, community,
-                    tokenomics, and overall project fundamentals to make
-                    informed choices.
+                    DYOR is a critical concept in the cryptocurrency and blockchain space. It emphasizes the importance
+                    of conducting thorough research before making any investment or participation decisions. Rather than
+                    solely relying on others' opinions or suggestions, DYOR encourages you to review the project's
+                    whitepaper, team, community, tokenomics, and overall project fundamentals to make informed choices.
                   </p>
                 </span>
               </div>
@@ -328,11 +267,7 @@ const PageAPEExperience21 = () => {
                   </div>
                   <div className="dotty-gray418199d2svg8">
                     <div className="dotty-gray418199d2svg9">
-                      <img
-                        className="vector-icon72"
-                        alt=""
-                        src="/vector6.svg"
-                      />
+                      <img className="vector-icon72" alt="" src="/vector6.svg" />
                     </div>
                   </div>
                 </div>
@@ -342,11 +277,7 @@ const PageAPEExperience21 = () => {
                   <div className="divcss-025">
                     <div className="divcss-1y1nkkn20">
                       <div className="span45">
-                        <img
-                          className="haoxiaoeth-icon4"
-                          alt=""
-                          src="/haoxiaoeth@2x.png"
-                        />
+                        <img className="haoxiaoeth-icon4" alt="" src="/haoxiaoeth@2x.png" />
                       </div>
                     </div>
                   </div>
@@ -358,11 +289,7 @@ const PageAPEExperience21 = () => {
                   <div className="divcss-025">
                     <div className="divcss-1y1nkkn20">
                       <div className="span45">
-                        <img
-                          className="haoxiaoeth-icon4"
-                          alt=""
-                          src="/mo115eth@2x.png"
-                        />
+                        <img className="haoxiaoeth-icon4" alt="" src="/mo115eth@2x.png" />
                       </div>
                     </div>
                   </div>
@@ -374,11 +301,7 @@ const PageAPEExperience21 = () => {
                   <div className="divcss-025">
                     <div className="divcss-1y1nkkn20">
                       <div className="span45">
-                        <img
-                          className="haoxiaoeth-icon4"
-                          alt=""
-                          src="/neparaeth@2x.png"
-                        />
+                        <img className="haoxiaoeth-icon4" alt="" src="/neparaeth@2x.png" />
                       </div>
                     </div>
                   </div>
@@ -390,11 +313,7 @@ const PageAPEExperience21 = () => {
                   <div className="divcss-025">
                     <div className="divcss-1y1nkkn20">
                       <div className="span45">
-                        <img
-                          className="haoxiaoeth-icon4"
-                          alt=""
-                          src="/0x68159eth@2x.png"
-                        />
+                        <img className="haoxiaoeth-icon4" alt="" src="/0x68159eth@2x.png" />
                       </div>
                     </div>
                   </div>
@@ -406,11 +325,7 @@ const PageAPEExperience21 = () => {
                   <div className="divcss-025">
                     <div className="divcss-1y1nkkn20">
                       <div className="span45">
-                        <img
-                          className="haoxiaoeth-icon4"
-                          alt=""
-                          src="/truete11ereth@2x.png"
-                        />
+                        <img className="haoxiaoeth-icon4" alt="" src="/truete11ereth@2x.png" />
                       </div>
                     </div>
                   </div>
@@ -421,9 +336,11 @@ const PageAPEExperience21 = () => {
               </div>
             </div>
             <div className="divframer-gvo3gs-container3">
-              <div className="link6">
-                <b className="get-started1">Get Started</b>
-              </div>
+              <a href="page-ape-experience-22">
+                <div className="link6">
+                  <b className="get-started1">Get Started</b>
+                </div>
+              </a>
             </div>
           </div>
         </div>
@@ -490,7 +407,9 @@ const PageAPEExperience21 = () => {
                 </div>
               </div>
               <div className="pchakra-text153">
-                <div className="level4">Level</div>
+                <div className="level4">
+                  <a href="/page-level">Level</a>
+                </div>
               </div>
             </div>
             <div className="button37">
@@ -502,7 +421,9 @@ const PageAPEExperience21 = () => {
                 </div>
               </div>
               <div className="pchakra-text154">
-                <div className="experience4">Experience</div>
+                <div className="experience4">
+                  <a href="/page-toutes-les-experiences">Experience</a>
+                </div>
               </div>
             </div>
           </div>

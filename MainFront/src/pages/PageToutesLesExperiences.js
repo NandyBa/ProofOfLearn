@@ -10,11 +10,7 @@ const PageToutesLesExperiences = () => {
                 <div className="button-filter">
                   <div className="svg77">
                     <div className="frame77">
-                      <img
-                        className="vector-icon80"
-                        alt=""
-                        src="/vector30.svg"
-                      />
+                      <img className="vector-icon80" alt="" src="/vector30.svg" />
                     </div>
                   </div>
                 </div>
@@ -22,11 +18,7 @@ const PageToutesLesExperiences = () => {
                   <div className="form">
                     <div className="svg78">
                       <div className="frame78">
-                        <img
-                          className="vector-icon81"
-                          alt=""
-                          src="/vector31.svg"
-                        />
+                        <img className="vector-icon81" alt="" src="/vector31.svg" />
                       </div>
                     </div>
                     <div className="input">
@@ -46,11 +38,7 @@ const PageToutesLesExperiences = () => {
                 <div className="spanchakra-button-icon35">
                   <div className="svg77">
                     <div className="frame79">
-                      <img
-                        className="vector-icon82"
-                        alt=""
-                        src="/vector32.svg"
-                      />
+                      <img className="vector-icon82" alt="" src="/vector32.svg" />
                     </div>
                   </div>
                 </div>
@@ -69,77 +57,71 @@ const PageToutesLesExperiences = () => {
           </div>
           <div className="divcss-1s1c1bz">
             <div className="divchakra-stack201">
-              <div className="divchakra-stack202">
-                <div className="divcss-1kq5yp1">
-                  <div className="span52">
-                    <img
-                      className="uvbv6ka5rexhgdyvy9ccq4b5hpsf1y-icon"
-                      alt=""
-                      src="/uvbv6ka5rexhgdyvy9ccq4b5hpsf1ykhjwje4x2wdia@2x.png"
-                    />
-                  </div>
-                </div>
-                <div className="divchakra-stack203">
-                  <div className="divchakra-stack204">
-                    <div className="divcss-827vyq">
-                      <div className="svg80">
-                        <img className="frame-icon" alt="" src="/frame.svg" />
-                      </div>
-                    </div>
-                    <div className="pchakra-text161">
-                      <div className="dyor-find">{`DYOR & Find crypto data`}</div>
+              <a href="/page-ape-experience-21">
+                <div className="divchakra-stack202">
+                  <div className="divcss-1kq5yp1">
+                    <div className="span52">
+                      <img
+                        className="uvbv6ka5rexhgdyvy9ccq4b5hpsf1y-icon"
+                        alt=""
+                        src="/uvbv6ka5rexhgdyvy9ccq4b5hpsf1ykhjwje4x2wdia@2x.png"
+                      />
                     </div>
                   </div>
-                  <div className="divchakra-stack205">
-                    <div className="divcss-qm0npo">
-                      <div className="span53">
-                        <div className="image44">
-                          <div className="image45" />
+                  <div className="divchakra-stack203">
+                    <div className="divchakra-stack204">
+                      <div className="divcss-827vyq">
+                        <div className="svg80">
+                          <img className="frame-icon" alt="" src="/frame.svg" />
                         </div>
-                        <div className="mirror938c2527png" />
+                      </div>
+                      <div className="pchakra-text161">
+                        <div className="dyor-find">{`DYOR & Find crypto data`}</div>
                       </div>
                     </div>
-                    <div className="pchakra-text162">
-                      <div className="beginners">Beginners</div>
+                    <div className="divchakra-stack205">
+                      <div className="divcss-qm0npo">
+                        <div className="span53">
+                          <div className="image44">
+                            <div className="image45" />
+                          </div>
+                          <div className="mirror938c2527png" />
+                        </div>
+                      </div>
+                      <div className="pchakra-text162">
+                        <div className="beginners">Beginners</div>
+                      </div>
                     </div>
-                  </div>
-                  <div className="divchakra-stack206">
-                    <div className="divchakra-stack207">
-                      <div className="divcss-go2wv12">
-                        <div className="svg81">
-                          <div className="frame80">
-                            <img
-                              className="vector-icon83"
-                              alt=""
-                              src="/vector33.svg"
-                            />
+                    <div className="divchakra-stack206">
+                      <div className="divchakra-stack207">
+                        <div className="divcss-go2wv12">
+                          <div className="svg81">
+                            <div className="frame80">
+                              <img className="vector-icon83" alt="" src="/vector33.svg" />
+                            </div>
+                          </div>
+                        </div>
+                        <div className="pchakra-text163">
+                          <div className="beginners">500 APE</div>
+                        </div>
+                      </div>
+                      <div className="divcss-dga45d5">
+                        <div className="span54">
+                          <div className="image46">
+                            <div className="image47" />
                           </div>
                         </div>
                       </div>
-                      <div className="pchakra-text163">
-                        <div className="beginners">500 APE</div>
-                      </div>
-                    </div>
-                    <div className="divcss-dga45d5">
-                      <div className="span54">
-                        <div className="image46">
-                          <div className="image47" />
-                        </div>
-                      </div>
                     </div>
                   </div>
                 </div>
-              </div>
+              </a>
               <div className="divchakra-stack208">
                 <div className="divchakra-stack209">
                   <div className="spanchakra-button-icon35">
                     <div className="divcss-1y1nkkn25">
                       <div className="span55">
-                        <img
-                          className="meytabeth-icon"
-                          alt=""
-                          src="/meytabeth@2x.png"
-                        />
+                        <img className="meytabeth-icon" alt="" src="/meytabeth@2x.png" />
                       </div>
                     </div>
                   </div>
@@ -171,73 +153,67 @@ const PageToutesLesExperiences = () => {
               </div>
             </div>
             <div className="divchakra-stack210">
-              <div className="divchakra-stack202">
-                <div className="divcss-1kq5yp1">
-                  <div className="span52">
-                    <img
-                      className="i3dorcsj-uj2aymygvyeljpkyos-vb-icon"
-                      alt=""
-                      src="/8i3dorcsjuj2aymygvyeljpkyos-vbcr1zc2vcpe2i@2x.png"
-                    />
-                  </div>
-                  <div className="divchakra-stack212">
-                    <div className="beginners">New</div>
-                  </div>
-                </div>
-                <div className="divchakra-stack213">
-                  <div className="divchakra-stack204">
-                    <div className="divcss-827vyq">
-                      <div className="svg80">
-                        <img className="frame-icon" alt="" src="/frame1.svg" />
-                      </div>
+              <a href="/page-experience-n1">
+                <div className="divchakra-stack202">
+                  <div className="divcss-1kq5yp1">
+                    <div className="span52">
+                      <img
+                        className="i3dorcsj-uj2aymygvyeljpkyos-vb-icon"
+                        alt=""
+                        src="/8i3dorcsjuj2aymygvyeljpkyos-vbcr1zc2vcpe2i@2x.png"
+                      />
                     </div>
-                    <div className="pchakra-text165">
-                      <div className="dyor-find">Create your first NFTs</div>
+                    <div className="divchakra-stack212">
+                      <div className="beginners">New</div>
                     </div>
                   </div>
-                  <div className="divchakra-stack215">
-                    <div className="divcss-qm0npo">
-                      <div className="span53">
-                        <div className="image44">
-                          <div className="image45" />
+                  <div className="divchakra-stack213">
+                    <div className="divchakra-stack204">
+                      <div className="divcss-827vyq">
+                        <div className="svg80">
+                          <img className="frame-icon" alt="" src="/frame1.svg" />
                         </div>
-                        <div className="mirror938c2527png" />
+                      </div>
+                      <div className="pchakra-text165">
+                        <div className="dyor-find">Create your first NFTs</div>
                       </div>
                     </div>
-                    <div className="pchakra-text166">
-                      <div className="beginners">Beginners</div>
+                    <div className="divchakra-stack215">
+                      <div className="divcss-qm0npo">
+                        <div className="span53">
+                          <div className="image44">
+                            <div className="image45" />
+                          </div>
+                          <div className="mirror938c2527png" />
+                        </div>
+                      </div>
+                      <div className="pchakra-text166">
+                        <div className="beginners">Beginners</div>
+                      </div>
                     </div>
-                  </div>
-                  <div className="divchakra-stack216">
-                    <div className="divchakra-stack207">
-                      <div className="divcss-go2wv12">
-                        <div className="svg81">
-                          <div className="frame80">
-                            <img
-                              className="vector-icon83"
-                              alt=""
-                              src="/vector34.svg"
-                            />
+                    <div className="divchakra-stack216">
+                      <div className="divchakra-stack207">
+                        <div className="divcss-go2wv12">
+                          <div className="svg81">
+                            <div className="frame80">
+                              <img className="vector-icon83" alt="" src="/vector34.svg" />
+                            </div>
                           </div>
                         </div>
-                      </div>
-                      <div className="pchakra-text163">
-                        <div className="beginners">500$ USDT</div>
+                        <div className="pchakra-text163">
+                          <div className="beginners">500$ USDT</div>
+                        </div>
                       </div>
                     </div>
                   </div>
                 </div>
-              </div>
+              </a>
               <div className="divchakra-stack218">
                 <div className="divchakra-stack209">
                   <div className="spanchakra-button-icon35">
                     <div className="divcss-1y1nkkn25">
                       <div className="span55">
-                        <img
-                          className="meytabeth-icon"
-                          alt=""
-                          src="/haoxiaoeth2@2x.png"
-                        />
+                        <img className="meytabeth-icon" alt="" src="/haoxiaoeth2@2x.png" />
                       </div>
                     </div>
                   </div>
@@ -266,80 +242,74 @@ const PageToutesLesExperiences = () => {
           </div>
           <div className="divcss-1s1c1bz1">
             <div className="divchakra-stack223">
-              <div className="divchakra-stack202">
-                <div className="divcss-1kq5yp1">
-                  <div className="span52">
-                    <img
-                      className="uvbv6ka5rexhgdyvy9ccq4b5hpsf1y-icon"
-                      alt=""
-                      src="/uvbv6ka5rexhgdyvy9ccq4b5hpsf1ykhjwje4x2wdia1@2x.png"
-                    />
-                  </div>
-                  <div className="divchakra-stack225">
-                    <div className="trendy">Trendy</div>
-                  </div>
-                </div>
-                <div className="divchakra-stack213">
-                  <div className="divchakra-stack204">
-                    <div className="divcss-827vyq">
-                      <div className="svg80">
-                        <img className="frame-icon" alt="" src="/frame.svg" />
-                      </div>
+              <a href="/page-experience-n3">
+                <div className="divchakra-stack202">
+                  <div className="divcss-1kq5yp1">
+                    <div className="span52">
+                      <img
+                        className="uvbv6ka5rexhgdyvy9ccq4b5hpsf1y-icon"
+                        alt=""
+                        src="/uvbv6ka5rexhgdyvy9ccq4b5hpsf1ykhjwje4x2wdia1@2x.png"
+                      />
                     </div>
-                    <div className="pchakra-text161">
-                      <div className="faire-un-swap">Faire un swap</div>
+                    <div className="divchakra-stack225">
+                      <div className="trendy">Trendy</div>
                     </div>
                   </div>
-                  <div className="divchakra-stack205">
-                    <div className="divcss-qm0npo">
-                      <div className="span53">
-                        <div className="image44">
-                          <div className="image45" />
+                  <div className="divchakra-stack213">
+                    <div className="divchakra-stack204">
+                      <div className="divcss-827vyq">
+                        <div className="svg80">
+                          <img className="frame-icon" alt="" src="/frame.svg" />
                         </div>
-                        <div className="mirror938c2527png2" />
+                      </div>
+                      <div className="pchakra-text161">
+                        <div className="faire-un-swap">Faire un swap</div>
                       </div>
                     </div>
-                    <div className="pchakra-text162">
-                      <div className="trendy">Medium</div>
+                    <div className="divchakra-stack205">
+                      <div className="divcss-qm0npo">
+                        <div className="span53">
+                          <div className="image44">
+                            <div className="image45" />
+                          </div>
+                          <div className="mirror938c2527png2" />
+                        </div>
+                      </div>
+                      <div className="pchakra-text162">
+                        <div className="trendy">Medium</div>
+                      </div>
                     </div>
-                  </div>
-                  <div className="divchakra-stack206">
-                    <div className="divchakra-stack207">
-                      <div className="divcss-go2wv12">
-                        <div className="svg81">
-                          <div className="frame80">
-                            <img
-                              className="vector-icon83"
-                              alt=""
-                              src="/vector33.svg"
-                            />
+                    <div className="divchakra-stack206">
+                      <div className="divchakra-stack207">
+                        <div className="divcss-go2wv12">
+                          <div className="svg81">
+                            <div className="frame80">
+                              <img className="vector-icon83" alt="" src="/vector33.svg" />
+                            </div>
+                          </div>
+                        </div>
+                        <div className="pchakra-text163">
+                          <div className="trendy">1000$ INCH</div>
+                        </div>
+                      </div>
+                      <div className="divcss-dga45d5">
+                        <div className="span54">
+                          <div className="image46">
+                            <div className="image47" />
                           </div>
                         </div>
                       </div>
-                      <div className="pchakra-text163">
-                        <div className="trendy">1000$ INCH</div>
-                      </div>
-                    </div>
-                    <div className="divcss-dga45d5">
-                      <div className="span54">
-                        <div className="image46">
-                          <div className="image47" />
-                        </div>
-                      </div>
                     </div>
                   </div>
                 </div>
-              </div>
+              </a>
               <div className="divchakra-stack231">
                 <div className="divchakra-stack209">
                   <div className="spanchakra-button-icon35">
                     <div className="divcss-1y1nkkn25">
                       <div className="span55">
-                        <img
-                          className="meytabeth-icon"
-                          alt=""
-                          src="/meytabeth@2x.png"
-                        />
+                        <img className="meytabeth-icon" alt="" src="/meytabeth@2x.png" />
                       </div>
                     </div>
                   </div>
@@ -413,11 +383,7 @@ const PageToutesLesExperiences = () => {
                       <div className="divcss-go2wv12">
                         <div className="svg81">
                           <div className="frame80">
-                            <img
-                              className="vector-icon83"
-                              alt=""
-                              src="/vector34.svg"
-                            />
+                            <img className="vector-icon83" alt="" src="/vector34.svg" />
                           </div>
                         </div>
                       </div>
@@ -433,11 +399,7 @@ const PageToutesLesExperiences = () => {
                   <div className="spanchakra-button-icon35">
                     <div className="divcss-1y1nkkn25">
                       <div className="span55">
-                        <img
-                          className="meytabeth-icon"
-                          alt=""
-                          src="/haoxiaoeth2@2x.png"
-                        />
+                        <img className="meytabeth-icon" alt="" src="/haoxiaoeth2@2x.png" />
                       </div>
                     </div>
                   </div>
@@ -478,11 +440,7 @@ const PageToutesLesExperiences = () => {
                   <div className="spanchakra-button-icon36">
                     <div className="svg77">
                       <div className="frame84">
-                        <img
-                          className="vector-icon87"
-                          alt=""
-                          src="/vector35.svg"
-                        />
+                        <img className="vector-icon87" alt="" src="/vector35.svg" />
                       </div>
                     </div>
                   </div>
@@ -505,11 +463,7 @@ const PageToutesLesExperiences = () => {
                 <div className="spanchakra-button-icon35">
                   <div className="svg77">
                     <div className="frame85">
-                      <img
-                        className="vector-icon88"
-                        alt=""
-                        src="/vector36.svg"
-                      />
+                      <img className="vector-icon88" alt="" src="/vector36.svg" />
                     </div>
                   </div>
                 </div>
@@ -524,32 +478,28 @@ const PageToutesLesExperiences = () => {
                   <div className="spanchakra-button-icon35">
                     <div className="svg77">
                       <div className="frame86">
-                        <img
-                          className="vector-icon89"
-                          alt=""
-                          src="/vector10.svg"
-                        />
+                        <img className="vector-icon89" alt="" src="/vector10.svg" />
                       </div>
                     </div>
                   </div>
                   <div className="pchakra-text180">
-                    <div className="level5">Level</div>
+                    <div className="level5">
+                      <a href="/page-level">Level</a>
+                    </div>
                   </div>
                 </div>
                 <div className="button44">
                   <div className="spanchakra-button-icon35">
                     <div className="svg77">
                       <div className="frame87">
-                        <img
-                          className="vector-icon90"
-                          alt=""
-                          src="/vector28.svg"
-                        />
+                        <img className="vector-icon90" alt="" src="/vector28.svg" />
                       </div>
                     </div>
                   </div>
                   <div className="pchakra-text181">
-                    <div className="experience5">Experience</div>
+                    <div className="experience5">
+                      <a href="/page-toutes-les-experiences">Experience</a>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -561,11 +511,7 @@ const PageToutesLesExperiences = () => {
                   <div className="spanchakra-button-icon35">
                     <div className="svg77">
                       <div className="frame88">
-                        <img
-                          className="vector-icon87"
-                          alt=""
-                          src="/vector23.svg"
-                        />
+                        <img className="vector-icon87" alt="" src="/vector23.svg" />
                       </div>
                     </div>
                   </div>
@@ -582,11 +528,7 @@ const PageToutesLesExperiences = () => {
                   <div className="spanchakra-button-icon35">
                     <div className="svg77">
                       <div className="frame89">
-                        <img
-                          className="vector-icon92"
-                          alt=""
-                          src="/vector13.svg"
-                        />
+                        <img className="vector-icon92" alt="" src="/vector13.svg" />
                       </div>
                     </div>
                   </div>
