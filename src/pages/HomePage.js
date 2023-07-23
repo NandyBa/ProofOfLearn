@@ -1,5 +1,5 @@
-import "./SITEWEB.css";
-const SITEWEB = () => {
+import "./HomePage.css";
+const HomePage = () => {
   return (
     <div className="site-web">
       <div className="tout-le-site-tout-le-long">
@@ -11,9 +11,7 @@ const SITEWEB = () => {
                 <b className="new2">NEW</b>
               </div>
               <div className="divframer-7ncycj">
-                <div className="defi-experience-available">
-                  DeFi experience available
-                </div>
+                <div className="defi-experience-available">DeFi experience available</div>
               </div>
             </div>
             <div className="divframer-1u3vmnn">
@@ -27,24 +25,22 @@ const SITEWEB = () => {
                   </div>
                 </div>
                 <div className="divframer-ik1l8j-container">
-                  <div className="learning-and-engaging">
-                    Learning and Engaging!
-                  </div>
+                  <div className="learning-and-engaging">Learning and Engaging!</div>
                 </div>
               </div>
               <div className="divframer-11g15lb">
                 <div className="pframer-text">
-                  <div className="embark-on-your">
-                    Embark on your educational journey now!
-                  </div>
+                  <div className="embark-on-your">Embark on your educational journey now!</div>
                 </div>
               </div>
             </div>
             <div className="divframer-1tguap6">
               <div className="divframer-gvo3gs-container5">
-                <div className="link11">
-                  <b className="get-started3">Get Started</b>
-                </div>
+                <a href="/launch-app-home">
+                  <div className="link11">
+                    <b className="get-started3">Get Started</b>
+                  </div>
+                </a>
               </div>
               <div className="divframer-ivci4s-container">
                 <div className="link12">
@@ -72,11 +68,7 @@ const SITEWEB = () => {
           <div className="nav">
             <div className="barre-de-nav">
               <div className="divframer-1cvrqom">
-                <img
-                  className="divframer-1cvrqom-child"
-                  alt=""
-                  src="/ellipse-11@2x.png"
-                />
+                <img className="divframer-1cvrqom-child" alt="" src="/ellipse-11@2x.png" />
               </div>
               <div className="divframer-taxvkj-container">
                 <div className="divframer-h314k6">
@@ -98,11 +90,7 @@ const SITEWEB = () => {
                         </div>
                         <div className="divframer-154idwg-container">
                           <div className="svg122">
-                            <img
-                              className="frame-icon6"
-                              alt=""
-                              src="/frame4.svg"
-                            />
+                            <img className="frame-icon6" alt="" src="/frame4.svg" />
                           </div>
                         </div>
                       </div>
@@ -119,11 +107,7 @@ const SITEWEB = () => {
                         </div>
                         <div className="divframer-154idwg-container">
                           <div className="svg122">
-                            <img
-                              className="frame-icon6"
-                              alt=""
-                              src="/frame5.svg"
-                            />
+                            <img className="frame-icon6" alt="" src="/frame5.svg" />
                           </div>
                         </div>
                       </div>
@@ -140,11 +124,7 @@ const SITEWEB = () => {
                         </div>
                         <div className="divframer-154idwg-container">
                           <div className="svg122">
-                            <img
-                              className="frame-icon6"
-                              alt=""
-                              src="/frame6.svg"
-                            />
+                            <img className="frame-icon6" alt="" src="/frame6.svg" />
                           </div>
                         </div>
                       </div>
@@ -161,11 +141,7 @@ const SITEWEB = () => {
                         </div>
                         <div className="divframer-154idwg-container">
                           <div className="svg122">
-                            <img
-                              className="frame-icon6"
-                              alt=""
-                              src="/frame7.svg"
-                            />
+                            <img className="frame-icon6" alt="" src="/frame7.svg" />
                           </div>
                         </div>
                       </div>
@@ -176,9 +152,11 @@ const SITEWEB = () => {
                 </div>
               </div>
               <div className="divframer-7pmrb3">
-                <div className="link18">
-                  <b className="get-started3">Get Started</b>
-                </div>
+                <a href="/launch-app-home">
+                  <div className="link18">
+                    <b className="get-started3">Get Started</b>
+                  </div>
+                </a>
               </div>
             </div>
           </div>
@@ -214,17 +192,18 @@ const SITEWEB = () => {
                   <div className="divframer-6kc6is">
                     <div className="heading-21">
                       <div className="experience-the-power">
-                        Experience the power of gamification in education. Our
-                        platform offers interactive and engaging learning
-                        experiences that make education fun and effective.
+                        Experience the power of gamification in education. Our platform offers interactive and engaging
+                        learning experiences that make education fun and effective.
                       </div>
                     </div>
                   </div>
                 </div>
                 <div className="divframer-3wws4p-container">
                   <div className="link19">
-                    <div className="divframer-5apapq" />
-                    <b className="get-started5">{`Get Started `}</b>
+                    <a href="/launch-app-home">
+                      <div className="divframer-5apapq" />
+                      <b className="get-started5">{`Get Started `}</b>
+                    </a>
                     <div className="divframer-5wpwc2-container">
                       <div className="svg122">
                         <img className="frame-icon6" alt="" src="/frame8.svg" />
@@ -251,12 +230,8 @@ const SITEWEB = () => {
                         <div className="divframer-qg1gs0">
                           <div className="pframer-text1">
                             <div className="engage-in-interactive-container">
-                              <p className="engage-in-interactive">
-                                Engage in interactive activities and experiences
-                              </p>
-                              <p className="engage-in-interactive">
-                                that will captivate your curiosity!
-                              </p>
+                              <p className="engage-in-interactive">Engage in interactive activities and experiences</p>
+                              <p className="engage-in-interactive">that will captivate your curiosity!</p>
                             </div>
                           </div>
                         </div>
@@ -280,9 +255,7 @@ const SITEWEB = () => {
                           <div className="pframer-text2">
                             <div className="engage-in-interactive-container">
                               <p className="engage-in-interactive">{`Progress through levels, with each experience `}</p>
-                              <p className="engage-in-interactive">
-                                designed to match expertise!
-                              </p>
+                              <p className="engage-in-interactive">designed to match expertise!</p>
                             </div>
                           </div>
                         </div>
@@ -300,18 +273,14 @@ const SITEWEB = () => {
                       </div>
                       <div className="divframer-1e7ywhx">
                         <div className="divframer-1h5b43z">
-                          <div className="heading-3">
-                            Earn Money, Rewards, and Goodies
-                          </div>
+                          <div className="heading-3">Earn Money, Rewards, and Goodies</div>
                         </div>
                         <div className="divframer-14588ts">
                           <div className="pframer-text3">
                             <div className="engage-in-interactive-container">
                               <p className="engage-in-interactive">{`Get rewarded for dedication and accomplishments! `}</p>
                               <p className="engage-in-interactive">{`Excel in educational pursuits to earn money, exciting `}</p>
-                              <p className="engage-in-interactive">
-                                rewards, and goodies.
-                              </p>
+                              <p className="engage-in-interactive">rewards, and goodies.</p>
                             </div>
                           </div>
                         </div>
@@ -378,9 +347,7 @@ const SITEWEB = () => {
                     <div className="sign-up-and-container">
                       <span className="sign-up-and-container1">
                         <p className="engage-in-interactive">{`Sign up and create your account easily by `}</p>
-                        <p className="engage-in-interactive">
-                          connecting with your preferred social network.
-                        </p>
+                        <p className="engage-in-interactive">connecting with your preferred social network.</p>
                       </span>
                     </div>
                   </div>
@@ -412,9 +379,8 @@ const SITEWEB = () => {
                         <p className="engage-in-interactive">&nbsp;</p>
                         <p className="engage-in-interactive">&nbsp;</p>
                         <p className="engage-in-interactive">
-                          Browse our selection of diverse experiences, each
-                          carefully curated to match your expertise and
-                          interests.
+                          Browse our selection of diverse experiences, each carefully curated to match your expertise
+                          and interests.
                         </p>
                       </span>
                     </div>
@@ -446,8 +412,7 @@ const SITEWEB = () => {
                         <p className="engage-in-interactive">&nbsp;</p>
                         <p className="engage-in-interactive">&nbsp;</p>
                         <p className="engage-in-interactive">
-                          Dive into your chosen experience and follow the
-                          step-by-step instructions provided.
+                          Dive into your chosen experience and follow the step-by-step instructions provided.
                         </p>
                       </span>
                     </div>
@@ -484,26 +449,18 @@ const SITEWEB = () => {
                   <div className="divframer-29fkbj">
                     <div className="divframer-z5tj6m">
                       <div className="image78">
-                        <img
-                          className="vector-icon122"
-                          alt=""
-                          src="/vector44.svg"
-                        />
+                        <img className="vector-icon122" alt="" src="/vector44.svg" />
                       </div>
                     </div>
                   </div>
                 </div>
                 <div className="divframer-1bix8f1">
-                  <div className="create-your-account-container">
-                    Follow on twitter
-                  </div>
+                  <div className="create-your-account-container">Follow on twitter</div>
                 </div>
                 <div className="divframer-aswy28-container">
                   <div className="link20">
                     <div className="divframer-1jn56rz">
-                      <div className="defi-experience-available">
-                        Follow @l3arn
-                      </div>
+                      <div className="defi-experience-available">Follow @l3arn</div>
                     </div>
                     <div className="divframer-1g9tish-container">
                       <div className="svg122">
@@ -519,34 +476,22 @@ const SITEWEB = () => {
                   <div className="divframer-kl6att">
                     <div className="svg122">
                       <div className="frame118">
-                        <img
-                          className="svg-2080539423-2943-icon"
-                          alt=""
-                          src="/svg2080539423-2943.svg"
-                        />
+                        <img className="svg-2080539423-2943-icon" alt="" src="/svg2080539423-2943.svg" />
                       </div>
                     </div>
                   </div>
                 </div>
                 <div className="divframer-c4g5nu">
-                  <div className="create-your-account-container">
-                    Join our discord
-                  </div>
+                  <div className="create-your-account-container">Join our discord</div>
                 </div>
                 <div className="divframer-aswy28-container">
                   <div className="link20">
                     <div className="divframer-1jn56rz1">
-                      <div className="defi-experience-available">
-                        Join Discord
-                      </div>
+                      <div className="defi-experience-available">Join Discord</div>
                     </div>
                     <div className="divframer-1g9tish-container">
                       <div className="svg122">
-                        <img
-                          className="frame-icon6"
-                          alt=""
-                          src="/frame10.svg"
-                        />
+                        <img className="frame-icon6" alt="" src="/frame10.svg" />
                       </div>
                     </div>
                     <div className="pseudo7" />
@@ -557,33 +502,21 @@ const SITEWEB = () => {
                 <div className="divframer-1bafmeh">
                   <div className="svg122">
                     <div className="frame119">
-                      <img
-                        className="svg2119534450-1294-icon"
-                        alt=""
-                        src="/svg2119534450-1294.svg"
-                      />
+                      <img className="svg2119534450-1294-icon" alt="" src="/svg2119534450-1294.svg" />
                     </div>
                   </div>
                 </div>
                 <div className="divframer-1be4hhv">
-                  <div className="create-your-account-container">
-                    Join our github
-                  </div>
+                  <div className="create-your-account-container">Join our github</div>
                 </div>
                 <div className="divframer-aswy28-container">
                   <div className="link20">
                     <div className="divframer-1jn56rz2">
-                      <div className="defi-experience-available">
-                        Open Repository
-                      </div>
+                      <div className="defi-experience-available">Open Repository</div>
                     </div>
                     <div className="divframer-1g9tish-container">
                       <div className="svg122">
-                        <img
-                          className="frame-icon6"
-                          alt=""
-                          src="/frame11.svg"
-                        />
+                        <img className="frame-icon6" alt="" src="/frame11.svg" />
                       </div>
                     </div>
                     <div className="pseudo7" />
@@ -661,11 +594,7 @@ const SITEWEB = () => {
                 </div>
               </div>
             </div>
-            <img
-              className="divframer-19w2hbr-child"
-              alt=""
-              src="/ellipse-12@2x.png"
-            />
+            <img className="divframer-19w2hbr-child" alt="" src="/ellipse-12@2x.png" />
           </div>
           <div className="divframer-1nvcxc">
             <div className="divframer-1fkbef0">
@@ -676,33 +605,21 @@ const SITEWEB = () => {
                 <div className="divframer-g8h6s6-container">
                   <div className="img">
                     <div className="frame120">
-                      <img
-                        className="vector-icon123"
-                        alt=""
-                        src="/vector45.svg"
-                      />
+                      <img className="vector-icon123" alt="" src="/vector45.svg" />
                     </div>
                   </div>
                 </div>
                 <div className="divframer-g8h6s6-container">
                   <div className="img1">
                     <div className="frame121">
-                      <img
-                        className="vector-icon124"
-                        alt=""
-                        src="/vector46.svg"
-                      />
+                      <img className="vector-icon124" alt="" src="/vector46.svg" />
                     </div>
                   </div>
                 </div>
                 <div className="divframer-g8h6s6-container">
                   <div className="img">
                     <div className="frame122">
-                      <img
-                        className="vector-icon125"
-                        alt=""
-                        src="/vector47.svg"
-                      />
+                      <img className="vector-icon125" alt="" src="/vector47.svg" />
                     </div>
                   </div>
                 </div>
@@ -715,4 +632,4 @@ const SITEWEB = () => {
   );
 };
 
-export default SITEWEB;
+export default HomePage;

@@ -5,7 +5,9 @@ const PageAPEExperience22 = () => {
       <div className="divcss-1y21ojc3">
         <div className="divcss-sdkmul3">
           <div className="divchakra-stack114">
-            <img className="ellipse-icon" alt="" src="/ellipse-1@2x.png" />
+            <a href="/">
+              <img className="ellipse-icon" alt="" src="/ellipse-1@2x.png" />
+            </a>
             <div className="divcss-1uod83n3" />
           </div>
           <div className="divchakra-stack115">
@@ -24,11 +26,7 @@ const PageAPEExperience22 = () => {
                       <div className="image27" />
                     </div>
                     <div className="wallet2f170466svg3">
-                      <img
-                        className="wallet2f170466svg-icon3"
-                        alt=""
-                        src="/wallet2f170466svg.svg"
-                      />
+                      <img className="wallet2f170466svg-icon3" alt="" src="/wallet2f170466svg.svg" />
                     </div>
                   </div>
                 </div>
@@ -48,20 +46,14 @@ const PageAPEExperience22 = () => {
                     <div className="image28">
                       <div className="image29" />
                     </div>
-                    <img
-                      className="mirror938c2527png-icon3"
-                      alt=""
-                      src="/mirror938c2527png2@2x.png"
-                    />
+                    <img className="mirror938c2527png-icon3" alt="" src="/mirror938c2527png2@2x.png" />
                   </div>
                   <div className="pchakra-text95">
                     <div className="apecoin-find">{`ApeCoin / Find the right information  `}</div>
                   </div>
                 </div>
                 <div className="pchakra-text96">
-                  <b className="treasure-hunt">
-                    Treasure hunt : Find the good data
-                  </b>
+                  <b className="treasure-hunt">Treasure hunt : Find the good data</b>
                 </div>
               </div>
               <div className="divchakra-stack120">
@@ -70,11 +62,7 @@ const PageAPEExperience22 = () => {
                     <div className="divcss-go2wv7">
                       <div className="svg46">
                         <div className="frame46">
-                          <img
-                            className="vector-icon47"
-                            alt=""
-                            src="/vector1.svg"
-                          />
+                          <img className="vector-icon47" alt="" src="/vector1.svg" />
                         </div>
                       </div>
                     </div>
@@ -95,11 +83,7 @@ const PageAPEExperience22 = () => {
                   <div className="divchakra-stack124">
                     <div className="svg46">
                       <div className="frame47">
-                        <img
-                          className="vector-icon48"
-                          alt=""
-                          src="/vector2.svg"
-                        />
+                        <img className="vector-icon48" alt="" src="/vector2.svg" />
                       </div>
                     </div>
                     <div className="pchakra-text98">
@@ -107,20 +91,14 @@ const PageAPEExperience22 = () => {
                     </div>
                   </div>
                   <div className="pchakra-text99">
-                    <div className="find-the-right">
-                      Find the right data and learn DYOR
-                    </div>
+                    <div className="find-the-right">Find the right data and learn DYOR</div>
                   </div>
                 </div>
                 <div className="divchakra-stack125">
                   <div className="divchakra-stack126">
                     <div className="svg46">
                       <div className="frame48">
-                        <img
-                          className="vector-icon49"
-                          alt=""
-                          src="/vector3.svg"
-                        />
+                        <img className="vector-icon49" alt="" src="/vector3.svg" />
                       </div>
                     </div>
                     <div className="pchakra-text100">
@@ -135,11 +113,7 @@ const PageAPEExperience22 = () => {
                   <div className="divchakra-stack128">
                     <div className="svg46">
                       <div className="frame49">
-                        <img
-                          className="vector-icon50"
-                          alt=""
-                          src="/vector4.svg"
-                        />
+                        <img className="vector-icon50" alt="" src="/vector4.svg" />
                       </div>
                     </div>
                     <div className="pchakra-text102">
@@ -177,39 +151,27 @@ const PageAPEExperience22 = () => {
               <div className="pchakra-text105" />
             </div>
             <div className="pchakra-text106">
-              <img
-                className="pchakra-text-inner"
-                alt=""
-                src="/rectangle-61@2x.png"
-              />
+              <img className="pchakra-text-inner" alt="" src="/rectangle-61@2x.png" />
               <div className="step-1-dyor-container">
                 <span className="step-1-dyor-container1">
                   <p className="step-1-dyor">
-                    Step 1: DYOR on APE Coin: Suppose you are interested in a
-                    specific DAO like APE Coin. Start by performing extensive
-                    research on the project. Visit their official website, read
-                    the whitepaper, and analyze the team members' backgrounds.
-                    Investigate the project's use case, technology, and
-                    community engagement. Look for reviews and discussions on
-                    forums or social media platforms.
+                    Step 1: DYOR on APE Coin: Suppose you are interested in a specific DAO like APE Coin. Start by
+                    performing extensive research on the project. Visit their official website, read the whitepaper, and
+                    analyze the team members' backgrounds. Investigate the project's use case, technology, and community
+                    engagement. Look for reviews and discussions on forums or social media platforms.
                   </p>
                   <p className="step-1-dyor">&nbsp;</p>
                   <p className="step-1-dyor">
-                    Step 2: Use Data Aggregation Platforms: To find relevant
-                    data about APE Coin, use data aggregation platforms like
-                    CoinMarketCap, CoinGecko, or other similar sites. These
-                    platforms provide real-time data on the coin's price, market
-                    capitalization, trading volume, and other relevant metrics.
-                    Analyzing this data will help you make more informed
-                    decisions.
+                    Step 2: Use Data Aggregation Platforms: To find relevant data about APE Coin, use data aggregation
+                    platforms like CoinMarketCap, CoinGecko, or other similar sites. These platforms provide real-time
+                    data on the coin's price, market capitalization, trading volume, and other relevant metrics.
+                    Analyzing this data will help you make more informed decisions.
                   </p>
                   <p className="step-1-dyor">&nbsp;</p>
                   <p className="step-1-dyor">
-                    Step 3: Participating in DAOs and earning governance tokens
-                    can be an exciting and rewarding experience. Remember to
-                    always perform thorough research (DYOR) and use reliable
-                    data sources to make informed decisions. Good luck on your
-                    journey to earning your first governance token!
+                    Step 3: Participating in DAOs and earning governance tokens can be an exciting and rewarding
+                    experience. Remember to always perform thorough research (DYOR) and use reliable data sources to
+                    make informed decisions. Good luck on your journey to earning your first governance token!
                   </p>
                 </span>
               </div>
@@ -252,11 +214,7 @@ const PageAPEExperience22 = () => {
                   </div>
                   <div className="dotty-gray418199d2svg6">
                     <div className="dotty-gray418199d2svg7">
-                      <img
-                        className="vector-icon54"
-                        alt=""
-                        src="/vector6.svg"
-                      />
+                      <img className="vector-icon54" alt="" src="/vector6.svg" />
                     </div>
                   </div>
                 </div>
@@ -266,11 +224,7 @@ const PageAPEExperience22 = () => {
                   <div className="divcss-019">
                     <div className="divcss-1y1nkkn15">
                       <div className="span34">
-                        <img
-                          className="haoxiaoeth-icon3"
-                          alt=""
-                          src="/haoxiaoeth@2x.png"
-                        />
+                        <img className="haoxiaoeth-icon3" alt="" src="/haoxiaoeth@2x.png" />
                       </div>
                     </div>
                   </div>
@@ -282,11 +236,7 @@ const PageAPEExperience22 = () => {
                   <div className="divcss-019">
                     <div className="divcss-1y1nkkn15">
                       <div className="span34">
-                        <img
-                          className="haoxiaoeth-icon3"
-                          alt=""
-                          src="/mo115eth@2x.png"
-                        />
+                        <img className="haoxiaoeth-icon3" alt="" src="/mo115eth@2x.png" />
                       </div>
                     </div>
                   </div>
@@ -298,11 +248,7 @@ const PageAPEExperience22 = () => {
                   <div className="divcss-019">
                     <div className="divcss-1y1nkkn15">
                       <div className="span34">
-                        <img
-                          className="haoxiaoeth-icon3"
-                          alt=""
-                          src="/neparaeth@2x.png"
-                        />
+                        <img className="haoxiaoeth-icon3" alt="" src="/neparaeth@2x.png" />
                       </div>
                     </div>
                   </div>
@@ -314,11 +260,7 @@ const PageAPEExperience22 = () => {
                   <div className="divcss-019">
                     <div className="divcss-1y1nkkn15">
                       <div className="span34">
-                        <img
-                          className="haoxiaoeth-icon3"
-                          alt=""
-                          src="/0x68159eth@2x.png"
-                        />
+                        <img className="haoxiaoeth-icon3" alt="" src="/0x68159eth@2x.png" />
                       </div>
                     </div>
                   </div>
@@ -330,11 +272,7 @@ const PageAPEExperience22 = () => {
                   <div className="divcss-019">
                     <div className="divcss-1y1nkkn15">
                       <div className="span34">
-                        <img
-                          className="haoxiaoeth-icon3"
-                          alt=""
-                          src="/truete11ereth@2x.png"
-                        />
+                        <img className="haoxiaoeth-icon3" alt="" src="/truete11ereth@2x.png" />
                       </div>
                     </div>
                   </div>
@@ -396,7 +334,9 @@ const PageAPEExperience22 = () => {
               </div>
             </div>
             <div className="pchakra-text118">
-              <div className="home3">Home</div>
+              <div className="home3">
+                <a href="/launch-app-home">Home</a>
+              </div>
             </div>
           </div>
           <div className="divchakra-stack148">
@@ -409,7 +349,9 @@ const PageAPEExperience22 = () => {
                 </div>
               </div>
               <div className="pchakra-text119">
-                <div className="level3">Level</div>
+                <div className="level3">
+                  <a href="/page-level">Level</a>
+                </div>
               </div>
             </div>
             <div className="button29">
@@ -421,7 +363,9 @@ const PageAPEExperience22 = () => {
                 </div>
               </div>
               <div className="pchakra-text120">
-                <div className="experience3">Experience</div>
+                <div className="experience3">
+                  <a href="/page-toutes-les-experiences">Experience</a>
+                </div>
               </div>
             </div>
           </div>

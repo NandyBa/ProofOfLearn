@@ -5,11 +5,9 @@ const PageExperienceN1 = () => {
       <div className="divcss-1y21ojc6">
         <div className="divcss-sdkmul5">
           <div className="divchakra-stack256">
-            <img
-              className="divchakra-stack-child2"
-              alt=""
-              src="/ellipse-1@2x.png"
-            />
+            <a href="/">
+              <img className="divchakra-stack-child2" alt="" src="/ellipse-1@2x.png" />
+            </a>
             <div className="divcss-1uod83n5" />
           </div>
           <div className="divchakra-stack257">
@@ -28,11 +26,7 @@ const PageExperienceN1 = () => {
                       <div className="image69" />
                     </div>
                     <div className="wallet2f170466svg5">
-                      <img
-                        className="wallet2f170466svg-icon5"
-                        alt=""
-                        src="/wallet2f170466svg1.svg"
-                      />
+                      <img className="wallet2f170466svg-icon5" alt="" src="/wallet2f170466svg1.svg" />
                     </div>
                   </div>
                 </div>
@@ -52,11 +46,7 @@ const PageExperienceN1 = () => {
                     <div className="image70">
                       <div className="image71" />
                     </div>
-                    <img
-                      className="mirror938c2527png-icon5"
-                      alt=""
-                      src="/mirror938c2527png1@2x.png"
-                    />
+                    <img className="mirror938c2527png-icon5" alt="" src="/mirror938c2527png1@2x.png" />
                   </div>
                   <div className="pchakra-text187">
                     <div className="nouns-dao1">{`Nouns DAO / Create your first NFTs  `}</div>
@@ -72,11 +62,7 @@ const PageExperienceN1 = () => {
                     <div className="divcss-go2wv17">
                       <div className="svg95">
                         <div className="frame91">
-                          <img
-                            className="vector-icon94"
-                            alt=""
-                            src="/vector1.svg"
-                          />
+                          <img className="vector-icon94" alt="" src="/vector1.svg" />
                         </div>
                       </div>
                     </div>
@@ -97,11 +83,7 @@ const PageExperienceN1 = () => {
                   <div className="divchakra-stack266">
                     <div className="svg95">
                       <div className="frame92">
-                        <img
-                          className="vector-icon95"
-                          alt=""
-                          src="/vector15.svg"
-                        />
+                        <img className="vector-icon95" alt="" src="/vector15.svg" />
                       </div>
                     </div>
                     <div className="pchakra-text190">
@@ -109,20 +91,14 @@ const PageExperienceN1 = () => {
                     </div>
                   </div>
                   <div className="pchakra-text191">
-                    <div className="create-your-first4">
-                      Create your first NFTs with Nouns DAO swag
-                    </div>
+                    <div className="create-your-first4">Create your first NFTs with Nouns DAO swag</div>
                   </div>
                 </div>
                 <div className="divchakra-stack267">
                   <div className="divchakra-stack268">
                     <div className="svg95">
                       <div className="frame93">
-                        <img
-                          className="vector-icon96"
-                          alt=""
-                          src="/vector3.svg"
-                        />
+                        <img className="vector-icon96" alt="" src="/vector3.svg" />
                       </div>
                     </div>
                     <div className="pchakra-text192">
@@ -137,11 +113,7 @@ const PageExperienceN1 = () => {
                   <div className="divchakra-stack270">
                     <div className="svg95">
                       <div className="frame94">
-                        <img
-                          className="vector-icon97"
-                          alt=""
-                          src="/vector16.svg"
-                        />
+                        <img className="vector-icon97" alt="" src="/vector16.svg" />
                       </div>
                     </div>
                     <div className="pchakra-text194">
@@ -172,9 +144,7 @@ const PageExperienceN1 = () => {
                   </div>
                   <div className="divchakra-stack274">
                     <div className="pchakra-text197">
-                      <div className="read-nouns-vision">
-                        Read nouns vision and philosophy
-                      </div>
+                      <div className="read-nouns-vision">Read nouns vision and philosophy</div>
                     </div>
                     <div className="divchakra-stack275">
                       <div className="divchakra-stack276">
@@ -183,17 +153,11 @@ const PageExperienceN1 = () => {
                             <div className="image74">
                               <div className="image75" />
                             </div>
-                            <img
-                              className="optimism202c83a8png-icon2"
-                              alt=""
-                              src="/optimism202c83a8png@2x.png"
-                            />
+                            <img className="optimism202c83a8png-icon2" alt="" src="/optimism202c83a8png@2x.png" />
                           </div>
                         </div>
                         <div className="pchakra-text189">
-                          <div className="usdt2">
-                            Sign transaction with our app (wallet is integrate)
-                          </div>
+                          <div className="usdt2">Sign transaction with our app (wallet is integrate)</div>
                         </div>
                       </div>
                     </div>
@@ -217,11 +181,7 @@ const PageExperienceN1 = () => {
                   <div className="divcss-a20ioa2">
                     <div className="svg95">
                       <div className="frame97">
-                        <img
-                          className="vector-icon100"
-                          alt=""
-                          src="/vector19.svg"
-                        />
+                        <img className="vector-icon100" alt="" src="/vector19.svg" />
                       </div>
                     </div>
                   </div>
@@ -243,54 +203,44 @@ const PageExperienceN1 = () => {
               <div className="pchakra-text200" />
             </div>
             <div className="pchakra-text201">
-              <img
-                className="pchakra-text-child1"
-                alt=""
-                src="/rectangle-6@2x.png"
-              />
+              <img className="pchakra-text-child1" alt="" src="/rectangle-6@2x.png" />
               <div className="nfts-unique-digital-container">
                 <span className="nfts-unique-digital-container1">
                   <p className="nfts-unique-digital-assets-re">
                     <b className="nfts">NFTs:</b>
                     <span className="unique-digital-assets">
                       {" "}
-                      Unique digital assets representing ownership of digital
-                      goods like artworks, videos, games, etc., using
-                      blockchain. 
+                      Unique digital assets representing ownership of digital goods like artworks, videos, games, etc.,
+                      using blockchain.
                     </span>
                   </p>
                   <p className="nfts-unique-digital-assets-re">
                     <b className="nfts">Nouns:</b>
                     <span className="unique-digital-assets">
                       {" "}
-                      A generative NFT art project fostering community,
-                      governance, and identity with on-chain character
-                      collections. 
+                      A generative NFT art project fostering community, governance, and identity with on-chain character
+                      collections.
                     </span>
                   </p>
                   <p className="nfts-unique-digital-assets-re">
                     <b className="nfts">{`Midjourney: `}</b>
                     <span className="unique-digital-assets">
-                      Independent research lab with an AI program creating
-                      images from textual descriptions. 
+                      Independent research lab with an AI program creating images from textual descriptions.
                     </span>
                   </p>
                   <p className="nfts-unique-digital-assets-re">
                     <b className="nfts">{`Opensea: `}</b>
                     <span className="unique-digital-assets">
-                      Popular platform to tokenize and sell unique digital
-                      creations as NFTs.
+                      Popular platform to tokenize and sell unique digital creations as NFTs.
                     </span>
                   </p>
                   <p className="blank-line7">&nbsp;</p>
                   <p className="nfts-unique-digital-assets-re">
                     <b className="nfts">{`Our Nouns Experience: `}</b>
                     <span className="unique-digital-assets">
-                      Onboarding new users to the NFT and PFP community,
-                      understanding NFTs, collecting Nouns' Swag, and creating
-                      "Nouns Learner" NFTs using a permissionless experience
-                      with AI Midjourney and rarible platform for positive waves
-                      and Nouns ⌐◨-◨ artwork.
+                      Onboarding new users to the NFT and PFP community, understanding NFTs, collecting Nouns' Swag, and
+                      creating "Nouns Learner" NFTs using a permissionless experience with AI Midjourney and rarible
+                      platform for positive waves and Nouns ⌐◨-◨ artwork.
                     </span>
                   </p>
                 </span>
@@ -300,9 +250,7 @@ const PageExperienceN1 = () => {
           <div className="divchakra-stack282">
             <div className="divchakra-stack283">
               <div className="pchakra-text202">
-                <div className="examples-of-nouns3">
-                  Examples of nouns learners
-                </div>
+                <div className="examples-of-nouns3">Examples of nouns learners</div>
               </div>
               <div className="divchakra-stack284">
                 <div className="svg95">
@@ -336,11 +284,7 @@ const PageExperienceN1 = () => {
                   </div>
                   <div className="dotty-gray418199d2svg10">
                     <div className="dotty-gray418199d2svg11">
-                      <img
-                        className="vector-icon103"
-                        alt=""
-                        src="/vector6.svg"
-                      />
+                      <img className="vector-icon103" alt="" src="/vector6.svg" />
                     </div>
                   </div>
                 </div>
@@ -350,11 +294,7 @@ const PageExperienceN1 = () => {
                   <div className="divcss-031">
                     <div className="divcss-1y1nkkn37">
                       <div className="span76">
-                        <img
-                          className="haoxiaoeth-icon7"
-                          alt=""
-                          src="/haoxiaoeth@2x.png"
-                        />
+                        <img className="haoxiaoeth-icon7" alt="" src="/haoxiaoeth@2x.png" />
                       </div>
                     </div>
                   </div>
@@ -366,11 +306,7 @@ const PageExperienceN1 = () => {
                   <div className="divcss-031">
                     <div className="divcss-1y1nkkn37">
                       <div className="span76">
-                        <img
-                          className="haoxiaoeth-icon7"
-                          alt=""
-                          src="/mo115eth@2x.png"
-                        />
+                        <img className="haoxiaoeth-icon7" alt="" src="/mo115eth@2x.png" />
                       </div>
                     </div>
                   </div>
@@ -382,11 +318,7 @@ const PageExperienceN1 = () => {
                   <div className="divcss-031">
                     <div className="divcss-1y1nkkn37">
                       <div className="span76">
-                        <img
-                          className="haoxiaoeth-icon7"
-                          alt=""
-                          src="/neparaeth@2x.png"
-                        />
+                        <img className="haoxiaoeth-icon7" alt="" src="/neparaeth@2x.png" />
                       </div>
                     </div>
                   </div>
@@ -398,11 +330,7 @@ const PageExperienceN1 = () => {
                   <div className="divcss-031">
                     <div className="divcss-1y1nkkn37">
                       <div className="span76">
-                        <img
-                          className="haoxiaoeth-icon7"
-                          alt=""
-                          src="/0x68159eth@2x.png"
-                        />
+                        <img className="haoxiaoeth-icon7" alt="" src="/0x68159eth@2x.png" />
                       </div>
                     </div>
                   </div>
@@ -414,11 +342,7 @@ const PageExperienceN1 = () => {
                   <div className="divcss-031">
                     <div className="divcss-1y1nkkn37">
                       <div className="span76">
-                        <img
-                          className="haoxiaoeth-icon7"
-                          alt=""
-                          src="/truete11ereth@2x.png"
-                        />
+                        <img className="haoxiaoeth-icon7" alt="" src="/truete11ereth@2x.png" />
                       </div>
                     </div>
                   </div>
@@ -429,9 +353,11 @@ const PageExperienceN1 = () => {
               </div>
             </div>
             <div className="divframer-gvo3gs-container4">
-              <div className="link8">
-                <b className="get-started2">Get Started</b>
-              </div>
+              <a href="/page-experience-n1-1">
+                <div className="link8">
+                  <b className="get-started2">Get Started</b>
+                </div>
+              </a>
             </div>
           </div>
         </div>
@@ -457,11 +383,7 @@ const PageExperienceN1 = () => {
               <div className="spanchakra-button-icon43">
                 <div className="svg99">
                   <div className="frame101">
-                    <img
-                      className="vector-icon105"
-                      alt=""
-                      src="/vector35.svg"
-                    />
+                    <img className="vector-icon105" alt="" src="/vector35.svg" />
                   </div>
                 </div>
               </div>
@@ -489,7 +411,9 @@ const PageExperienceN1 = () => {
               </div>
             </div>
             <div className="pchakra-text213">
-              <div className="home6">Home</div>
+              <div className="home6">
+                <a href="/launch-app-home">Home</a>
+              </div>
             </div>
           </div>
           <div className="divchakra-stack297">
@@ -497,32 +421,28 @@ const PageExperienceN1 = () => {
               <div className="divcss-030">
                 <div className="svg99">
                   <div className="frame103">
-                    <img
-                      className="vector-icon107"
-                      alt=""
-                      src="/vector10.svg"
-                    />
+                    <img className="vector-icon107" alt="" src="/vector10.svg" />
                   </div>
                 </div>
               </div>
               <div className="pchakra-text214">
-                <div className="level6">Level</div>
+                <div className="level6">
+                  <a href="/page-level">Level</a>
+                </div>
               </div>
             </div>
             <div className="button52">
               <div className="divcss-030">
                 <div className="svg99">
                   <div className="frame104">
-                    <img
-                      className="vector-icon108"
-                      alt=""
-                      src="/vector28.svg"
-                    />
+                    <img className="vector-icon108" alt="" src="/vector28.svg" />
                   </div>
                 </div>
               </div>
               <div className="pchakra-text215">
-                <div className="experience6">Experience</div>
+                <div className="experience6">
+                  <a href="/page-toutes-les-experiences">Experience</a>
+                </div>
               </div>
             </div>
           </div>
@@ -534,11 +454,7 @@ const PageExperienceN1 = () => {
               <div className="divcss-030">
                 <div className="svg99">
                   <div className="frame105">
-                    <img
-                      className="vector-icon105"
-                      alt=""
-                      src="/vector23.svg"
-                    />
+                    <img className="vector-icon105" alt="" src="/vector23.svg" />
                   </div>
                 </div>
               </div>

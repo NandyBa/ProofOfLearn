@@ -5,11 +5,9 @@ const PageExperienceN3 = () => {
       <div className="divcss-1y21ojc1">
         <div className="divcss-sdkmul1">
           <div className="divchakra-stack35">
-            <img
-              className="divchakra-stack-item"
-              alt=""
-              src="/ellipse-1@2x.png"
-            />
+            <a href="/">
+              <img className="divchakra-stack-item" alt="" src="/ellipse-1@2x.png" />
+            </a>
             <div className="divcss-1uod83n1" />
           </div>
           <div className="divchakra-stack36">
@@ -28,11 +26,7 @@ const PageExperienceN3 = () => {
                       <div className="image9" />
                     </div>
                     <div className="wallet2f170466svg1">
-                      <img
-                        className="wallet2f170466svg-icon1"
-                        alt=""
-                        src="/wallet2f170466svg1.svg"
-                      />
+                      <img className="wallet2f170466svg-icon1" alt="" src="/wallet2f170466svg1.svg" />
                     </div>
                   </div>
                 </div>
@@ -52,11 +46,7 @@ const PageExperienceN3 = () => {
                     <div className="image10">
                       <div className="image11" />
                     </div>
-                    <img
-                      className="mirror938c2527png-icon1"
-                      alt=""
-                      src="/mirror938c2527png@2x.png"
-                    />
+                    <img className="mirror938c2527png-icon1" alt="" src="/mirror938c2527png@2x.png" />
                   </div>
                   <div className="pchakra-text31">
                     <div className="inch-swap1">{`1 Inch / Swap yours Tokens  `}</div>
@@ -72,11 +62,7 @@ const PageExperienceN3 = () => {
                     <div className="divcss-go2wv2">
                       <div className="svg15">
                         <div className="frame15">
-                          <img
-                            className="vector-icon15"
-                            alt=""
-                            src="/vector1.svg"
-                          />
+                          <img className="vector-icon15" alt="" src="/vector1.svg" />
                         </div>
                       </div>
                     </div>
@@ -97,11 +83,7 @@ const PageExperienceN3 = () => {
                   <div className="divchakra-stack45">
                     <div className="svg15">
                       <div className="frame16">
-                        <img
-                          className="vector-icon16"
-                          alt=""
-                          src="/vector15.svg"
-                        />
+                        <img className="vector-icon16" alt="" src="/vector15.svg" />
                       </div>
                     </div>
                     <div className="pchakra-text34">
@@ -109,20 +91,14 @@ const PageExperienceN3 = () => {
                     </div>
                   </div>
                   <div className="pchakra-text35">
-                    <div className="swap-token-a1">
-                      Swap token A to token B using DeFi protocol
-                    </div>
+                    <div className="swap-token-a1">Swap token A to token B using DeFi protocol</div>
                   </div>
                 </div>
                 <div className="divchakra-stack46">
                   <div className="divchakra-stack47">
                     <div className="svg15">
                       <div className="frame17">
-                        <img
-                          className="vector-icon17"
-                          alt=""
-                          src="/vector3.svg"
-                        />
+                        <img className="vector-icon17" alt="" src="/vector3.svg" />
                       </div>
                     </div>
                     <div className="pchakra-text36">
@@ -137,11 +113,7 @@ const PageExperienceN3 = () => {
                   <div className="divchakra-stack49">
                     <div className="svg15">
                       <div className="frame18">
-                        <img
-                          className="vector-icon18"
-                          alt=""
-                          src="/vector16.svg"
-                        />
+                        <img className="vector-icon18" alt="" src="/vector16.svg" />
                       </div>
                     </div>
                     <div className="pchakra-text38">
@@ -149,9 +121,7 @@ const PageExperienceN3 = () => {
                     </div>
                   </div>
                   <div className="pchakra-text39">
-                    <div className="swap-token-a1">
-                      1000$ en 1INCH token to share
-                    </div>
+                    <div className="swap-token-a1">1000$ en 1INCH token to share</div>
                   </div>
                 </div>
               </div>
@@ -174,9 +144,7 @@ const PageExperienceN3 = () => {
                   </div>
                   <div className="divchakra-stack53">
                     <div className="pchakra-text41">
-                      <div className="read-what-is">
-                        Read what is 1 inch and what’s is for
-                      </div>
+                      <div className="read-what-is">Read what is 1 inch and what’s is for</div>
                     </div>
                     <div className="divchakra-stack54">
                       <div className="divchakra-stack55">
@@ -185,11 +153,7 @@ const PageExperienceN3 = () => {
                             <div className="image14">
                               <div className="image15" />
                             </div>
-                            <img
-                              className="optimism202c83a8png-icon"
-                              alt=""
-                              src="/optimism202c83a8png@2x.png"
-                            />
+                            <img className="optimism202c83a8png-icon" alt="" src="/optimism202c83a8png@2x.png" />
                           </div>
                         </div>
                         <div className="pchakra-text33">
@@ -219,11 +183,7 @@ const PageExperienceN3 = () => {
                   <div className="divcss-a20ioa">
                     <div className="svg15">
                       <div className="frame21">
-                        <img
-                          className="vector-icon21"
-                          alt=""
-                          src="/vector19.svg"
-                        />
+                        <img className="vector-icon21" alt="" src="/vector19.svg" />
                       </div>
                     </div>
                   </div>
@@ -245,21 +205,14 @@ const PageExperienceN3 = () => {
               <div className="pchakra-text44" />
             </div>
             <div className="pchakra-text45">
-              <img
-                className="pchakra-text-item"
-                alt=""
-                src="/rectangle-6@2x.png"
-              />
+              <img className="pchakra-text-item" alt="" src="/rectangle-6@2x.png" />
               <div className="this-experience-involves-container">
                 <span className="this-experience-involves-container1">
                   <p className="this-experience-involves">
-                    This experience involves a token swap using Gnosis Chain and
-                    the 1inch aggregator. The user will exchange 50 DAI for
-                    USDT. Gnosis Chain provides a secure environment for the
-                    transaction, while the 1inch aggregator ensures the best
-                    available exchange rate across multiple decentralized
-                    exchanges. During the process, the user's transaction is
-                    monitored and verified for accuracy.
+                    This experience involves a token swap using Gnosis Chain and the 1inch aggregator. The user will
+                    exchange 50 DAI for USDT. Gnosis Chain provides a secure environment for the transaction, while the
+                    1inch aggregator ensures the best available exchange rate across multiple decentralized exchanges.
+                    During the process, the user's transaction is monitored and verified for accuracy.
                   </p>
                 </span>
               </div>
@@ -268,9 +221,7 @@ const PageExperienceN3 = () => {
           <div className="divchakra-stack61">
             <div className="divchakra-stack62">
               <div className="pchakra-text46">
-                <div className="examples-of-nouns1">
-                  Examples of nouns learners
-                </div>
+                <div className="examples-of-nouns1">Examples of nouns learners</div>
               </div>
               <div className="divchakra-stack63">
                 <div className="svg15">
@@ -305,11 +256,7 @@ const PageExperienceN3 = () => {
                   </div>
                   <div className="dotty-gray418199d2svg2">
                     <div className="dotty-gray418199d2svg3">
-                      <img
-                        className="vector-icon24"
-                        alt=""
-                        src="/vector6.svg"
-                      />
+                      <img className="vector-icon24" alt="" src="/vector6.svg" />
                     </div>
                   </div>
                 </div>
@@ -319,11 +266,7 @@ const PageExperienceN3 = () => {
                   <div className="divcss-07">
                     <div className="divcss-1y1nkkn5">
                       <div className="span14">
-                        <img
-                          className="haoxiaoeth-icon1"
-                          alt=""
-                          src="/haoxiaoeth@2x.png"
-                        />
+                        <img className="haoxiaoeth-icon1" alt="" src="/haoxiaoeth@2x.png" />
                       </div>
                     </div>
                   </div>
@@ -335,11 +278,7 @@ const PageExperienceN3 = () => {
                   <div className="divcss-07">
                     <div className="divcss-1y1nkkn5">
                       <div className="span14">
-                        <img
-                          className="haoxiaoeth-icon1"
-                          alt=""
-                          src="/mo115eth@2x.png"
-                        />
+                        <img className="haoxiaoeth-icon1" alt="" src="/mo115eth@2x.png" />
                       </div>
                     </div>
                   </div>
@@ -351,11 +290,7 @@ const PageExperienceN3 = () => {
                   <div className="divcss-07">
                     <div className="divcss-1y1nkkn5">
                       <div className="span14">
-                        <img
-                          className="haoxiaoeth-icon1"
-                          alt=""
-                          src="/neparaeth@2x.png"
-                        />
+                        <img className="haoxiaoeth-icon1" alt="" src="/neparaeth@2x.png" />
                       </div>
                     </div>
                   </div>
@@ -367,11 +302,7 @@ const PageExperienceN3 = () => {
                   <div className="divcss-07">
                     <div className="divcss-1y1nkkn5">
                       <div className="span14">
-                        <img
-                          className="haoxiaoeth-icon1"
-                          alt=""
-                          src="/0x68159eth@2x.png"
-                        />
+                        <img className="haoxiaoeth-icon1" alt="" src="/0x68159eth@2x.png" />
                       </div>
                     </div>
                   </div>
@@ -383,11 +314,7 @@ const PageExperienceN3 = () => {
                   <div className="divcss-07">
                     <div className="divcss-1y1nkkn5">
                       <div className="span14">
-                        <img
-                          className="haoxiaoeth-icon1"
-                          alt=""
-                          src="/truete11ereth@2x.png"
-                        />
+                        <img className="haoxiaoeth-icon1" alt="" src="/truete11ereth@2x.png" />
                       </div>
                     </div>
                   </div>
@@ -398,9 +325,11 @@ const PageExperienceN3 = () => {
               </div>
             </div>
             <div className="divframer-gvo3gs-container1">
-              <div className="link3">
-                <b className="get-started">Get Started</b>
-              </div>
+              <a href="/page-experience-n32">
+                <div className="link3">
+                  <b className="get-started">Get Started</b>
+                </div>
+              </a>
             </div>
           </div>
         </div>
@@ -454,7 +383,9 @@ const PageExperienceN3 = () => {
               </div>
             </div>
             <div className="pchakra-text57">
-              <div className="home1">Home</div>
+              <div className="home1">
+                <a href="/launch-app-home">Home</a>
+              </div>
             </div>
           </div>
           <div className="divchakra-stack76">
@@ -467,7 +398,9 @@ const PageExperienceN3 = () => {
                 </div>
               </div>
               <div className="pchakra-text58">
-                <div className="level1">Level</div>
+                <div className="level1">
+                  <a href="/page-level">Level</a>
+                </div>
               </div>
             </div>
             <div className="button13">
@@ -479,7 +412,9 @@ const PageExperienceN3 = () => {
                 </div>
               </div>
               <div className="pchakra-text59">
-                <div className="experience1">Experience</div>
+                <div className="experience1">
+                  <a href="/page-toutes-les-experiences">Experience</a>
+                </div>
               </div>
             </div>
           </div>
