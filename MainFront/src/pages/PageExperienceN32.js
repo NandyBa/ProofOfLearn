@@ -361,7 +361,9 @@ const PageExperienceN32 = () => {
               </div>
             </div>
             <div className="pchakra-text23">
-              <div className="home">Home</div>
+              <div className="home">
+                <a href="/launch-app-home">Home</a>
+              </div>
             </div>
           </div>
           <div className="divchakra-stack32">

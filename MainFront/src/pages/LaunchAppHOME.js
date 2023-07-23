@@ -881,7 +881,9 @@ const LaunchAppHOME = () => {
                 </div>
               </div>
               <div className="pchakra-text297">
-                <div className="home9">Home</div>
+                <div className="home9">
+                  <a href="/launch-app-home">Home</a>
+                </div>
               </div>
             </div>
             <div className="divchakra-stack373">
