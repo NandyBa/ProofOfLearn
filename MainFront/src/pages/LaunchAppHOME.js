@@ -955,7 +955,9 @@ const LaunchAppHOME = () => {
       </div>
       <div className="divcss-sdkmul6">
         <div className="divchakra-stack376">
-          <img className="divchakra-stack-child4" alt="" src="/ellipse-1@2x.png" />
+          <a href="/">
+            <img className="divchakra-stack-child4" alt="" src="/ellipse-1@2x.png" />
+          </a>
           <div className="divcss-1uod83n6" />
         </div>
         <div className="divchakra-stack377">
