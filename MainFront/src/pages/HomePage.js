@@ -36,11 +36,11 @@ const HomePage = () => {
             </div>
             <div className="divframer-1tguap6">
               <div className="divframer-gvo3gs-container5">
-                <div className="link11">
-                  <a href="/launch-app-home">
+                <a href="/launch-app-home">
+                  <div className="link11">
                     <b className="get-started3">Get Started</b>
-                  </a>
-                </div>
+                  </div>
+                </a>
               </div>
               <div className="divframer-ivci4s-container">
                 <div className="link12">
@@ -152,11 +152,11 @@ const HomePage = () => {
                 </div>
               </div>
               <div className="divframer-7pmrb3">
-                <div className="link18">
-                  <a href="/launch-app-home">
+                <a href="/launch-app-home">
+                  <div className="link18">
                     <b className="get-started3">Get Started</b>
-                  </a>
-                </div>
+                  </div>
+                </a>
               </div>
             </div>
           </div>
@@ -200,8 +200,8 @@ const HomePage = () => {
                 </div>
                 <div className="divframer-3wws4p-container">
                   <div className="link19">
-                    <div className="divframer-5apapq" />
                     <a href="/launch-app-home">
+                      <div className="divframer-5apapq" />
                       <b className="get-started5">{`Get Started `}</b>
                     </a>
                     <div className="divframer-5wpwc2-container">
