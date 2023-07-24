@@ -135,9 +135,24 @@ const PageExperienceN32 = () => {
               <div className="description">
                 <p className="description1">Description</p>
               </div>
+
               <div className="pchakra-text10" />
             </div>
+
             <div className="pchakra-text11">
+              <a
+                style={{
+                  color: "#8283FF",
+                  fontSize: "35px",
+                  fontWeight: "bold",
+                  position: "absolute",
+                  top: "75px",
+                  left: "-25px",
+                }}
+                href="wallet-abstraction"
+              >
+                Launch experience
+              </a>
               <div className="pchakra-text-child" />
               <b className="step-1-access-container">
                 <span className="step-1-access-container1">
