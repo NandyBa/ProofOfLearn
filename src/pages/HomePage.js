@@ -36,7 +36,7 @@ const HomePage = () => {
             </div>
             <div className="divframer-1tguap6">
               <div className="divframer-gvo3gs-container5">
-                <a href="/launch-app-home">
+                <a href="/launchapp">
                   <div className="link11">
                     <b className="get-started3">Get Started</b>
                   </div>
@@ -152,7 +152,7 @@ const HomePage = () => {
                 </div>
               </div>
               <div className="divframer-7pmrb3">
-                <a href="/launch-app-home">
+                <a href="/launchapp">
                   <div className="link18">
                     <b className="get-started3">Get Started</b>
                   </div>
@@ -200,7 +200,7 @@ const HomePage = () => {
                 </div>
                 <div className="divframer-3wws4p-container">
                   <div className="link19">
-                    <a href="/launch-app-home">
+                    <a href="/launchapp">
                       <div className="divframer-5apapq" />
                       <b className="get-started5">{`Get Started `}</b>
                     </a>

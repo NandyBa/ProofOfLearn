@@ -20,16 +20,16 @@ function App() {
   return (
     <Routes>
       <Route path="/" element={<HomePage />} />
-      <Route path="/page-experience-n32" element={<PageExperienceN32 />} />
-      <Route path="/page-experience-n3" element={<PageExperienceN3 />} />
-      <Route path="/page-experience-n1-1" element={<PageExperienceN11 />} />
-      <Route path="/page-ape-experience-22" element={<PageAPEExperience22 />} />
-      <Route path="/page-ape-experience-21" element={<PageAPEExperience21 />} />
-      <Route path="/page-ape-experience-quizz" element={<ApeQuizz />} />
-      <Route path="/page-toutes-les-experiences" element={<PageToutesLesExperiences />} />
-      <Route path="/page-experience-n1" element={<PageExperienceN1 />} />
-      <Route path="/page-level" element={<PageLevel />} />
-      <Route path="/launch-app-home" element={<LaunchAppHOME />} />
+      <Route path="/launchapp" element={<LaunchAppHOME />} />
+      <Route path="/levels" element={<PageLevel />} />
+      <Route path="/experiences" element={<PageToutesLesExperiences />} />
+      <Route path="/1inch-start" element={<PageExperienceN3 />} />
+      <Route path="/1inch-experience" element={<PageExperienceN32 />} />
+      <Route path="/nouns-start" element={<PageExperienceN1 />} />
+      <Route path="/nouns-experience" element={<PageExperienceN11 />} />
+      <Route path="/ape-start" element={<PageAPEExperience21 />} />
+      <Route path="/ape-experience" element={<PageAPEExperience22 />} />
+      <Route path="/ape-quizz" element={<ApeQuizz />} />
     </Routes>
   );
 }

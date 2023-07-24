@@ -6,7 +6,7 @@ const LaunchAppHOME = () => {
         <div className="divcss-1y21ojc8">
           <div className="divchakra-stack316">
             <div className="divcss-1yybs1o">
-              <a href="/page-experience-n1">
+              <a href="/nouns-start">
                 <div className="divcss-quea1v">
                   <div className="divcss-171k8le">
                     <div className="divcss-k008qs">
@@ -58,7 +58,7 @@ const LaunchAppHOME = () => {
                 </div>
                 <div className="button62">
                   <div className="pchakra-text236">
-                    <a className="see-more" href="/page-toutes-les-experiences">
+                    <a className="see-more" href="/experiences">
                       <b className="see-more">See More</b>
                     </a>
                   </div>
@@ -75,7 +75,7 @@ const LaunchAppHOME = () => {
                 <div className="divchakra-stack323">
                   <div className="divchakra-stack324" />
                 </div>
-                <a className="divchakra-stack325" href="/page-experience-n3">
+                <a className="divchakra-stack325" href="/1inch-start">
                   <div className="divchakra-stack326">
                     <div className="divcss-1kq5yp14">
                       <div className="span91">
@@ -882,7 +882,7 @@ const LaunchAppHOME = () => {
               </div>
               <div className="pchakra-text297">
                 <div className="home9">
-                  <a href="/launch-app-home">Home</a>
+                  <a href="/launchapp">Home</a>
                 </div>
               </div>
             </div>
@@ -897,7 +897,7 @@ const LaunchAppHOME = () => {
                 </div>
                 <div className="pchakra-text298">
                   <div className="level8">
-                    <a href="/page-level">Level</a>
+                    <a href="/levels">Level</a>
                   </div>
                 </div>
               </div>
@@ -911,7 +911,7 @@ const LaunchAppHOME = () => {
                 </div>
                 <div className="pchakra-text299">
                   <div className="experience9">
-                    <a href="/page-toutes-les-experiences">Experience</a>
+                    <a href="/experiences">Experience</a>
                   </div>
                 </div>
               </div>
