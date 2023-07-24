@@ -137,6 +137,19 @@ const PageAPEExperience22 = () => {
                   <div className="questions">Questions</div>
                 </div>
               </div>
+              <a
+                style={{
+                  color: "#8283FF",
+                  fontSize: "35px",
+                  fontWeight: "bold",
+                  position: "absolute",
+                  top: "130px",
+                  left: "205px",
+                }}
+                href="ape-quizz"
+              >
+                Click to start
+              </a>
             </div>
           </div>
           <div className="divchakra-stack131">
@@ -286,9 +299,11 @@ const PageAPEExperience22 = () => {
         </div>
         <div className="divcss-jkl58t3">
           <div className="divchakra-stack144">
-            <div className="pchakra-text115">
-              <b className="back-to-all3">Back to all experiences</b>
-            </div>
+            <a href="/launchapp">
+              <div className="pchakra-text115">
+                <b className="back-to-all3">Back to all experiences</b>
+              </div>
+            </a>
             <div className="button25">
               <div className="svg50">
                 <div className="frame53">
@@ -335,7 +350,7 @@ const PageAPEExperience22 = () => {
             </div>
             <div className="pchakra-text118">
               <div className="home3">
-                <a href="/launch-app-home">Home</a>
+                <a href="/launchapp">Home</a>
               </div>
             </div>
           </div>
@@ -350,7 +365,7 @@ const PageAPEExperience22 = () => {
               </div>
               <div className="pchakra-text119">
                 <div className="level3">
-                  <a href="/page-level">Level</a>
+                  <a href="/levels">Level</a>
                 </div>
               </div>
             </div>
@@ -364,7 +379,7 @@ const PageAPEExperience22 = () => {
               </div>
               <div className="pchakra-text120">
                 <div className="experience3">
-                  <a href="/page-toutes-les-experiences">Experience</a>
+                  <a href="/experiences">Experience</a>
                 </div>
               </div>
             </div>
