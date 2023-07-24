@@ -39,6 +39,9 @@ import { TorusWalletAdapter } from "@web3auth/torus-evm-adapter"
 
 import config from "./config"
 
+const chainId = "0xaa36a7"
+const rpcTarget = "https://black-boldest-shard.ethereum-sepolia.discover.quiknode.pro/9398cbf6ba7255773e85c66d68ba1d1835a4d609/"
+
 const clientId =
   "BEglQSgt4cUWcj6SKRdu5QkOXTsePmMcusG5EAoyjyOYKlVRjIF1iCNnMOTfpzCiunHRrMui8TIwQPXdkQ8Yxuk"; // get from https://dashboard.web3auth.io
 
@@ -100,8 +103,8 @@ function WalletAbstraction() {
           clientId,
           chainConfig: {
             chainNamespace: CHAIN_NAMESPACES.EIP155,
-            chainId: "0x1",
-            rpcTarget: "https://rpc.ankr.com/eth" // This is the public RPC we have added, please pass on your own endpoint while creating an app
+            chainId,
+            rpcTarget
           },
           uiConfig: {
             appName: "W3A",
@@ -190,7 +193,7 @@ function WalletAbstraction() {
         // adding wallet connect v2 adapter
         const defaultWcSettings = await getWalletConnectV2Settings(
           "eip155",
-          [1, 137, 5],
+          [11155111],
           "04309ed1007e77d1f119b85205bb779d"
         )
         const walletConnectV2Adapter = new WalletConnectV2Adapter({
@@ -207,8 +210,8 @@ function WalletAbstraction() {
           web3AuthNetwork: "cyan",
           chainConfig: {
             chainNamespace: CHAIN_NAMESPACES.EIP155,
-            chainId: "0x1",
-            rpcTarget: "https://rpc.ankr.com/eth" // This is the public RPC we have added, please pass on your own endpoint while creating an app
+            chainId,
+            rpcTarget
           }
         })
         // we can change the above settings using this function
@@ -216,8 +219,8 @@ function WalletAbstraction() {
           sessionTime: 86400, // 1 day in seconds
           chainConfig: {
             chainNamespace: CHAIN_NAMESPACES.EIP155,
-            chainId: "0x1",
-            rpcTarget: "https://rpc.ankr.com/eth" // This is the public RPC we have added, please pass on your own endpoint while creating an app
+            chainId,
+            rpcTarget
           },
           web3AuthNetwork: "cyan"
         })
