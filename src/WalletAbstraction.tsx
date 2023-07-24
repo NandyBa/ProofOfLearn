@@ -39,8 +39,8 @@ import { TorusWalletAdapter } from "@web3auth/torus-evm-adapter"
 
 import config from "./config"
 
-const chainId = "0xaa36a7"
-const rpcTarget = "https://black-boldest-shard.ethereum-sepolia.discover.quiknode.pro/9398cbf6ba7255773e85c66d68ba1d1835a4d609/"
+const chainId = "0x5"
+const rpcTarget = "https://convincing-frequent-shadow.ethereum-goerli.discover.quiknode.pro/a4fb392c4dfe01206da85e4092cba9e68767f131/"
 
 const clientId =
   "BEglQSgt4cUWcj6SKRdu5QkOXTsePmMcusG5EAoyjyOYKlVRjIF1iCNnMOTfpzCiunHRrMui8TIwQPXdkQ8Yxuk"; // get from https://dashboard.web3auth.io
