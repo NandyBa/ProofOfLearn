@@ -107,7 +107,7 @@ const PageLevel = () => {
                       </div>
                       <div className="pchakra-text226">
                         <div className="home7">
-                          <a href="/launch-app-home">Home</a>
+                          <a href="/launchapp">Home</a>
                         </div>
                       </div>
                     </div>
@@ -122,7 +122,7 @@ const PageLevel = () => {
                         </div>
                         <div className="pchakra-text227">
                           <div className="level7">
-                            <a href="/page-level">Level</a>
+                            <a href="/levels">Level</a>
                           </div>
                         </div>
                       </div>
@@ -136,7 +136,7 @@ const PageLevel = () => {
                         </div>
                         <div className="pchakra-text228">
                           <div className="experience7">
-                            <a href="/page-toutes-les-experiences">Experience</a>
+                            <a href="/experiences">Experience</a>
                           </div>
                         </div>
                       </div>

@@ -57,7 +57,7 @@ const PageToutesLesExperiences = () => {
           </div>
           <div className="divcss-1s1c1bz">
             <div className="divchakra-stack201">
-              <a href="/page-ape-experience-21">
+              <a href="/ape-start">
                 <div className="divchakra-stack202">
                   <div className="divcss-1kq5yp1">
                     <div className="span52">
@@ -153,7 +153,7 @@ const PageToutesLesExperiences = () => {
               </div>
             </div>
             <div className="divchakra-stack210">
-              <a href="/page-experience-n1">
+              <a href="/nouns-start">
                 <div className="divchakra-stack202">
                   <div className="divcss-1kq5yp1">
                     <div className="span52">
@@ -242,7 +242,7 @@ const PageToutesLesExperiences = () => {
           </div>
           <div className="divcss-1s1c1bz1">
             <div className="divchakra-stack223">
-              <a href="/page-experience-n3">
+              <a href="/1inch-start">
                 <div className="divchakra-stack202">
                   <div className="divcss-1kq5yp1">
                     <div className="span52">
@@ -469,7 +469,7 @@ const PageToutesLesExperiences = () => {
                 </div>
                 <div className="pchakra-text179">
                   <div className="home5">
-                    <a href="/launch-app-home">Home</a>
+                    <a href="/launchapp">Home</a>
                   </div>
                 </div>
               </div>
@@ -484,7 +484,7 @@ const PageToutesLesExperiences = () => {
                   </div>
                   <div className="pchakra-text180">
                     <div className="level5">
-                      <a href="/page-level">Level</a>
+                      <a href="/levels">Level</a>
                     </div>
                   </div>
                 </div>
@@ -498,7 +498,7 @@ const PageToutesLesExperiences = () => {
                   </div>
                   <div className="pchakra-text181">
                     <div className="experience5">
-                      <a href="/page-toutes-les-experiences">Experience</a>
+                      <a href="/experiences">Experience</a>
                     </div>
                   </div>
                 </div>

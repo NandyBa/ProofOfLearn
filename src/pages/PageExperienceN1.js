@@ -353,7 +353,7 @@ const PageExperienceN1 = () => {
               </div>
             </div>
             <div className="divframer-gvo3gs-container4">
-              <a href="/page-experience-n1-1">
+              <a href="/nouns-experience">
                 <div className="link8">
                   <b className="get-started2">Get Started</b>
                 </div>
@@ -363,9 +363,11 @@ const PageExperienceN1 = () => {
         </div>
         <div className="divcss-jkl58t6">
           <div className="divchakra-stack293">
-            <div className="pchakra-text210">
-              <b className="back-to-all5">Back to all experiences</b>
-            </div>
+            <a href="/launchapp">
+              <div className="pchakra-text210">
+                <b className="back-to-all5">Back to all experiences</b>
+              </div>
+            </a>
             <div className="button48">
               <div className="svg99">
                 <div className="frame100">
@@ -412,7 +414,7 @@ const PageExperienceN1 = () => {
             </div>
             <div className="pchakra-text213">
               <div className="home6">
-                <a href="/launch-app-home">Home</a>
+                <a href="/launchapp">Home</a>
               </div>
             </div>
           </div>
@@ -427,7 +429,7 @@ const PageExperienceN1 = () => {
               </div>
               <div className="pchakra-text214">
                 <div className="level6">
-                  <a href="/page-level">Level</a>
+                  <a href="/levels">Level</a>
                 </div>
               </div>
             </div>
@@ -441,7 +443,7 @@ const PageExperienceN1 = () => {
               </div>
               <div className="pchakra-text215">
                 <div className="experience6">
-                  <a href="/page-toutes-les-experiences">Experience</a>
+                  <a href="/experiences">Experience</a>
                 </div>
               </div>
             </div>

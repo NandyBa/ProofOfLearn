@@ -338,7 +338,7 @@ const PageAPEExperience21 = () => {
               </div>
             </div>
             <div className="divframer-gvo3gs-container3">
-              <a href="page-ape-experience-22">
+              <a href="ape-experience">
                 <div className="link6">
                   <b className="get-started1">Get Started</b>
                 </div>
@@ -348,9 +348,11 @@ const PageAPEExperience21 = () => {
         </div>
         <div className="divcss-jkl58t4">
           <div className="divchakra-stack188">
-            <div className="pchakra-text149">
-              <b className="back-to-all4">Back to all experiences</b>
-            </div>
+            <a href="/launchapp">
+              <div className="pchakra-text149">
+                <b className="back-to-all4">Back to all experiences</b>
+              </div>
+            </a>
             <div className="button33">
               <div className="svg65">
                 <div className="frame70">
@@ -397,7 +399,7 @@ const PageAPEExperience21 = () => {
             </div>
             <div className="pchakra-text152">
               <div className="home4">
-                <a href="/launch-app-home">Home</a>
+                <a href="/launchapp">Home</a>
               </div>
             </div>
           </div>
@@ -412,7 +414,7 @@ const PageAPEExperience21 = () => {
               </div>
               <div className="pchakra-text153">
                 <div className="level4">
-                  <a href="/page-level">Level</a>
+                  <a href="/levels">Level</a>
                 </div>
               </div>
             </div>
@@ -426,7 +428,7 @@ const PageAPEExperience21 = () => {
               </div>
               <div className="pchakra-text154">
                 <div className="experience4">
-                  <a href="/page-toutes-les-experiences">Experience</a>
+                  <a href="/experiences">Experience</a>
                 </div>
               </div>
             </div>

@@ -315,9 +315,11 @@ const PageExperienceN32 = () => {
         </div>
         <div className="divcss-jkl58t">
           <div className="divchakra-stack28">
-            <div className="pchakra-text20">
-              <b className="back-to-all">Back to all experiences</b>
-            </div>
+            <a href="/launchapp">
+              <div className="pchakra-text20">
+                <b className="back-to-all">Back to all experiences</b>
+              </div>
+            </a>
             <div className="button1">
               <div className="svg7">
                 <div className="frame7">
@@ -364,7 +366,7 @@ const PageExperienceN32 = () => {
             </div>
             <div className="pchakra-text23">
               <div className="home">
-                <a href="/launch-app-home">Home</a>
+                <a href="/launchapp">Home</a>
               </div>
             </div>
           </div>
@@ -379,7 +381,7 @@ const PageExperienceN32 = () => {
               </div>
               <div className="pchakra-text24">
                 <div className="level">
-                  <a href="/page-level">Level</a>
+                  <a href="/levels">Level</a>
                 </div>
               </div>
             </div>
@@ -393,7 +395,7 @@ const PageExperienceN32 = () => {
               </div>
               <div className="pchakra-text25">
                 <div className="experience">
-                  <a href="/page-toutes-les-experiences">Experience</a>
+                  <a href="/experiences">Experience</a>
                 </div>
               </div>
             </div>
