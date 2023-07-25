@@ -39,8 +39,9 @@ import { TorusWalletAdapter } from "@web3auth/torus-evm-adapter"
 
 import config from "./config"
 
-const chainId = "0x5"
-const rpcTarget = "https://convincing-frequent-shadow.ethereum-goerli.discover.quiknode.pro/a4fb392c4dfe01206da85e4092cba9e68767f131/"
+// Polygon Mumbai Testnet
+const chainId = "0x13881"
+const rpcTarget = "https://skilled-dimensional-pond.matic-testnet.discover.quiknode.pro/13c3b09e8fe31b538186590de4f7992aa435b04a/"
 
 const clientId =
   "BEglQSgt4cUWcj6SKRdu5QkOXTsePmMcusG5EAoyjyOYKlVRjIF1iCNnMOTfpzCiunHRrMui8TIwQPXdkQ8Yxuk"; // get from https://dashboard.web3auth.io
@@ -193,7 +194,7 @@ function WalletAbstraction() {
         // adding wallet connect v2 adapter
         const defaultWcSettings = await getWalletConnectV2Settings(
           "eip155",
-          [11155111],
+          [11155111, 100, parseInt(chainId, 16)],
           "04309ed1007e77d1f119b85205bb779d"
         )
         const walletConnectV2Adapter = new WalletConnectV2Adapter({
