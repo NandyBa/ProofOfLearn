@@ -21,6 +21,15 @@ const Demo = () => {
                     <li>Click on the square on the top right of the modal who should have a QR code inside. It will copy the WalletConnect code.</li>
                     <li>Click here and paste it</li>
                 </ol>
+                <h3>Switch to Polygon Mumbai</h3>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/Cu6zeJzxhik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>(step 2 video)
+                <ol>
+                    <li>Click on the hamburger menu at the top left of the page.</li>
+                    <li>Activate testnets: Click on the "Testnets" slider to activate testnets.</li>
+                    <li>Go back to the dashboard: Click on the "Dashboard" button at the top left of the page.</li>
+                    <li>Click on the arrow at the right of the "Ethereum Mainnet" button at the top right of the page.</li>
+                    <li>Select "Polygon - Mumbai" in the dropdown menu.</li>
+                </ol>
                 <h3>Deposit USDC</h3>
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cu6zeJzxhik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>(step 2 video)
                 <ol>
