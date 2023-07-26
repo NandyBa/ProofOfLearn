@@ -35,6 +35,8 @@ const Demo = () => {
                 <ol>
                     <li>Click on the "Supply" button at right of USDC</li>
                     <li>Enter the deposit amount: In the deposit form, type the amount of USDC you wish to deposit.</li>
+                    <li>Click on the "Approve" button</li>
+                    <li>Confirm approval (modal)</li>
                     <li>Click on the "Deposit" button</li>
                     <li>Confirm deposit (modal)</li>
                     <li>Wait for confirmation: Once confirmed, the transaction will be processed. This may take a few secondes.</li>
