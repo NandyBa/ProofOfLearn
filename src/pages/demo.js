@@ -1,7 +1,12 @@
 import WalletAbstraction from "../WalletAbstraction"
 import "./demo.css"
+import fetch from "node-fetch"
 
 const Demo = () => {
+
+    const claimStarterPack = async () => {
+        alert("Not implemented yet")
+    }
 
     return (
         <>
@@ -12,6 +17,9 @@ const Demo = () => {
                 <p>You shoud see a new window open with Aave's dashboard at the right of this window. If you don't see it, check your browser's settings to allow pop-ups from this site and go back to previous page.</p>
 
                 <b style={{fontSize: 24}}>The video show the process step by step. You can see it or follow the instructions below.</b>
+
+                <h2>How to claim the starter pack</h2>
+                <button onClick={()=>claimStarterPack()}>Click here to get the starter pack</button>
                 <h2>How to deposit USDC on Aave</h2>
                 <h3>Connect you using WalletConnect</h3>
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cu6zeJzxhik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>(step 1 video)
