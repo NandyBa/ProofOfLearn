@@ -101,3 +101,14 @@
   font-size: 16px;
   font-family: monospace;
 }
+
+.grid{
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: white;
+  height: 100px;
+}
+.content{
+  padding-top: 100px;
+}

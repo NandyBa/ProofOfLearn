@@ -1,16 +1,67 @@
-
-.iframe-container {
-position: relative;
-width: 50%;
-height: 0;
-padding-bottom: 50%; /* This maintains a 1:1 aspect ratio (height:width) */
-overflow: hidden;
+body {
+    background-color: #fafafa;
+    color: #333;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
 }
 
-.iframe-container iframe {
-position: absolute;
-top: 0;
-left: 0;
-width: 100%;
-height: 100%;
+h1, h2, h3 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+p {
+    font-size: 1rem;
+    margin-bottom: 20px;
+}
+
+b {
+    font-weight: 700;
+}
+
+ol {
+    margin-left: 2em;
+    font-size: 1rem;
+    padding: 0;
+    list-style-type: none;
+}
+
+ol > li {
+    margin-bottom: 15px;
+}
+
+ol > li::before {
+    content: '➤';
+    color: #007bff;
+    font-weight: bold;
+    display: inline-block;
+    width: 1.5em;
+    margin-left: -2em;
+}
+
+iframe {
+    display: block;
+    max-width: 100%;
+    border: none;
+    margin-bottom: 20px;
+}
+
+.WalletAbstraction {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
 }

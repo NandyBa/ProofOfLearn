@@ -17,7 +17,7 @@ const LaunchAaveDemo = () => {
         const windowFeatures = `width=${windowWidth},height=${windowHeight},top=0,left=0`;
         
         // Open the first window
-        const window1 = window.open("http://localhost:3000/wallet-abstraction", "_blank", windowFeatures);
+        const window1 = window.open("http://localhost:3000/demo", "_blank", windowFeatures);
 
         // Open the second window with the specified URL
         const window2 = window.open(secondWindowUrl, "_blank", windowFeatures);

@@ -4,7 +4,36 @@ import "./demo.css"
 const Demo = () => {
 
     return (
-        <WalletAbstraction />
+        <>
+            <WalletAbstraction>
+                <h1>Aave experience</h1>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/Cu6zeJzxhik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>(onboarding video)
+
+                <p>You shoud see a new window open with Aave's dashboard at the right of this window. If you don't see it, check your browser's settings to allow pop-ups from this site and go back to previous page.</p>
+
+                <b style={{fontSize: 24}}>The video show the process step by step. You can see it or follow the instructions below.</b>
+                <h2>How to deposit USDC on Aave</h2>
+                <h3>Connect you using WalletConnect</h3>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/Cu6zeJzxhik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>(step 1 video)
+                <ol>
+                    <li>Click on the "Connect Wallet" button at the top right of the page.</li>
+                    <li>Select WalletConnect</li>
+                    <li>Click on the square on the top right of the modal who should have a QR code inside. It will copy the WalletConnect code.</li>
+                    <li>Click here and paste it</li>
+                </ol>
+                <h3>Deposit USDC</h3>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/Cu6zeJzxhik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>(step 2 video)
+                <ol>
+                    <li>Click on the "Supply" button at right of USDC</li>
+                    <li>Enter the deposit amount: In the deposit form, type the amount of USDC you wish to deposit.</li>
+                    <li>Click on the "Deposit" button</li>
+                    <li>Confirm deposit (modal)</li>
+                    <li>Wait for confirmation: Once confirmed, the transaction will be processed. This may take a few secondes.</li>
+                    <li>Verify deposit: Once the transaction is confirmed, you can see your USDC deposit and the corresponding aUSDC (the token you receive that represents your deposit) in your Aave dashboard.</li>
+                </ol>
+
+            </WalletAbstraction>
+        </>
     )
 
 }

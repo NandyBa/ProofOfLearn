@@ -15,7 +15,7 @@ import LaunchAaveDemo from "./pages/launch-aave-demo";
 import PageAPEExperience21 from "./pages/PageAPEExperience21";
 import PageAPEExperience22 from "./pages/PageAPEExperience22";
 import ApeQuizz from "./pages/ApeQuizz";
-import WalletAbstraction from "./WalletAbstraction";
+import Demo from "./pages/demo";
 
 function App() {
   return (
@@ -28,7 +28,7 @@ function App() {
       <Route path="/nouns-experience" element={<PageExperienceN11 />} />
       <Route path="/1inch-start" element={<PageExperienceN3 />} />
       <Route path="/1inch-experience" element={<PageExperienceN32 />} />
-      <Route path="/wallet-abstraction" element={<WalletAbstraction />} />
+      <Route path="/demo" element={<Demo />} />
       <Route path="/launch-aave-demo" element={<LaunchAaveDemo />} />
       <Route path="/ape-start" element={<PageAPEExperience21 />} />
       <Route path="/ape-experience" element={<PageAPEExperience22 />} />

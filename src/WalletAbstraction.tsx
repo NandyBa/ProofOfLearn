@@ -46,7 +46,7 @@ const rpcTarget = "https://skilled-dimensional-pond.matic-testnet.discover.quikn
 const clientId =
   "BEglQSgt4cUWcj6SKRdu5QkOXTsePmMcusG5EAoyjyOYKlVRjIF1iCNnMOTfpzCiunHRrMui8TIwQPXdkQ8Yxuk"; // get from https://dashboard.web3auth.io
 
-function WalletAbstraction() {
+function WalletAbstraction({ children }: { children: React.ReactNode | null }) {
   const [web3auth, setWeb3auth] = useState<Web3Auth | null>(null);
   const [provider, setProvider] = useState<SafeEventEmitterProvider | null>(null);
   const [loggedIn, setLoggedIn] = useState(false);
@@ -468,7 +468,6 @@ function WalletAbstraction() {
 
   const loggedInView = (
     <>
-      <a href="https://app.1inch.io/#/100/simple/swap/xDAI" target="_blank">1inch Website</a>
       <div className="flex-container">
         {/* <div>
           <button onClick={getUserInfo} className="card">
@@ -530,15 +529,10 @@ function WalletAbstraction() {
 
   return (
     <div className="container">
-      <h1 className="title">
-        <a target="_blank" href="http://web3auth.io/" rel="noreferrer">
-          Web3Auth{" "}
-        </a>
-        & ReactJS Multi-chain Example
-      </h1>
-
       <div className="grid">{loggedIn ? loggedInView : unloggedInView}</div>
-
+      <div className="content">
+        {children}
+      </div>
     </div>
   );
 }
