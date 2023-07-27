@@ -46,7 +46,7 @@ const rpcTarget = "https://skilled-dimensional-pond.matic-testnet.discover.quikn
 const clientId =
   "BEglQSgt4cUWcj6SKRdu5QkOXTsePmMcusG5EAoyjyOYKlVRjIF1iCNnMOTfpzCiunHRrMui8TIwQPXdkQ8Yxuk"; // get from https://dashboard.web3auth.io
 
-function WalletAbstraction({ children }: { children: React.ReactNode | null }) {
+function WalletAbstraction({ children, onConnect }: { children: React.ReactNode | null, onConnect: (address : string) => void }) {
   const [web3auth, setWeb3auth] = useState<Web3Auth | null>(null);
   const [provider, setProvider] = useState<SafeEventEmitterProvider | null>(null);
   const [loggedIn, setLoggedIn] = useState(false);
@@ -253,6 +253,21 @@ function WalletAbstraction({ children }: { children: React.ReactNode | null }) {
     init()
   }, [])
 
+  useEffect(() => {
+    if (web3auth && web3auth.connected && provider) {
+      (async () => {
+        let address = await getAccounts()
+
+        if(address){
+          onConnect(address)
+        }
+        console.log({ address })
+      })()
+    }
+  }, [web3auth, provider, onConnect])
+
+  
+
   const getAllAccounts = async () => {
 
     // Solana
@@ -321,6 +336,7 @@ function WalletAbstraction({ children }: { children: React.ReactNode | null }) {
     const rpc = new RPC(provider);
     const address = await rpc.getAccounts();
     uiConsole("ETH Address: " + address);
+    return address;
   };
 
   const getBalance = async () => {

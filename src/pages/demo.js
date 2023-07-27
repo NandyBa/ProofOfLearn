@@ -1,16 +1,51 @@
+import { useEffect, useState } from "react"
 import WalletAbstraction from "../WalletAbstraction"
 import "./demo.css"
-import fetch from "node-fetch"
 
 const Demo = () => {
+
+    const [address, setAddress] = useState(null)
 
     const claimStarterPack = async () => {
         alert("Not implemented yet")
     }
 
+    const onConnect = (address) => {
+        setAddress(address)
+    }
+
+    useEffect(() => {
+        // set up listener
+        if(!address) return
+        const dataPost = async () => {
+            try {
+              const response = await fetch("http://localhost:3001/set-aave-listener", {
+                method: "POST",
+                headers: {
+                  "Content-Type": "application/json"
+                },
+                body: JSON.stringify({
+                  address
+                })
+              });
+          
+              if (!response.ok) {
+                throw new Error("Network response was not ok");
+              }
+          
+              const data = await response.text();
+              console.log(data); // Log the response data
+            } catch (error) {
+              console.error("Error:", error);
+            }
+          };
+          
+          dataPost();        
+    }, [address])
+
     return (
         <>
-            <WalletAbstraction>
+            <WalletAbstraction onConnect={onConnect}>
                 <h1>Aave experience</h1>
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cu6zeJzxhik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>(onboarding video)
 
