@@ -3,12 +3,15 @@ const app = express();
 const fs = require('fs');
 const { didUse1inch } = require('./experiences/1inch');
 const port = 3001;
+const cors = require('cors');
+
+app.use(cors());
 
 // Middleware for parsing JSON and urlencoded form data
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-app.post('*', (req, res) => {
+app.post('/webhook-1inch', (req, res) => {
     console.log(`POST request received at: ${req.originalUrl}`);
     // console.log('Body:', req.body);
 
@@ -24,6 +27,20 @@ app.post('*', (req, res) => {
 
     fs.writeFileSync('lastData.json', JSON.stringify(req.body, null, '\t'));
     
+    res.status(200).send('Received POST data');
+});
+
+
+app.post('/set-aave-listener', (req, res) => {
+    const { address } = req.body;
+
+    console.log({ Body : req.body });
+    // console.log(req)
+
+    const logFile = fs.createWriteStream('aave-listener.log', { flags: 'a' });
+
+    logFile.write(`\n${address}`);
+
     res.status(200).send('Received POST data');
 });
 
